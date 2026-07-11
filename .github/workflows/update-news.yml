@@ -1,0 +1,39 @@
+# Regenerează public/news.json automat, o dată pe oră.
+# Commit-ul făcut aici declanșează automat un redeploy pe Vercel,
+# deci site-ul are mereu știri proaspete fără să faci nimic manual.
+# Poate fi pornit și manual: GitHub → Actions → "Actualizează știrile" → Run workflow.
+
+name: Actualizează știrile
+
+on:
+  schedule:
+    - cron: '0 * * * *' # la fiecare oră, la fix
+  workflow_dispatch: # buton de rulare manuală
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalează dependențele
+        run: npm install
+
+      - name: Rulează agregatorul (npm run news)
+        run: npm run news
+        # Scriptul continuă chiar dacă o sursă pică (ex. Myfxbook poate
+        # bloca curl-ul de pe serverele GitHub); ForexFactory merge mereu.
+
+      - name: Commit + push dacă s-a schimbat ceva
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/news.json
+          git diff --cached --quiet || (git commit -m "Actualizare automată news.json" && git push)
