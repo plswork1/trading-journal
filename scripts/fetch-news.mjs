@@ -18,7 +18,7 @@
 // Necesită Node 18+ (fetch nativ) și `curl` în PATH (pentru myfxbook).
 // ─────────────────────────────────────────────────────────────
 
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, readFile, mkdir } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFile } from 'node:child_process';
@@ -248,13 +248,44 @@ const sources = [
 ];
 
 const lists = [];
+const okSources = new Set();
 for (const [name, fn] of sources) {
   try {
     const evs = await fn();
     lists.push(evs);
+    okSources.add(name);
     console.log(`✓ ${name}: ${evs.length} evenimente`);
   } catch (e) {
     console.warn(`✗ ${name}: ${e.message}`);
+  }
+}
+
+// Fallback: dacă o sursă a picat ACUM (ex. Myfxbook/Investing blochează
+// serverele GitHub Actions), păstrează evenimentele ei din news.json-ul
+// anterior (generat local, unde toate sursele merg) în loc să le ștergem.
+// Sursele proaspete au prioritate la merge — cele vechi doar completează.
+const failedSources = sources.map(([n]) => n).filter((n) => !okSources.has(n));
+if (failedSources.length > 0) {
+  try {
+    const prev = JSON.parse(await readFile(OUT, 'utf8'));
+    const kept = (prev.events || [])
+      .map((e) => ({
+        name: e.name || '',
+        currency: e.currency || '',
+        ts: Date.parse(e.time),
+        impact: e.impact,
+        forecast: e.forecast || '',
+        previous: e.previous || '',
+        actual: e.actual || '',
+        sources: (Array.isArray(e.sources) ? e.sources : []).filter((s) => failedSources.includes(s)),
+      }))
+      .filter((e) => e.sources.length > 0 && e.name && Number.isFinite(e.ts));
+    if (kept.length > 0) {
+      lists.push(kept);
+      console.log(`↻ păstrate din news.json anterior: ${kept.length} evenimente (${failedSources.join(', ')})`);
+    }
+  } catch (e) {
+    /* nu există news.json anterior — ok */
   }
 }
 

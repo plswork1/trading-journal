@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T15:51:26.695Z",
+  "generatedAt": "2026-07-11T16:23:01.848Z",
   "events": [
     {
       "currency": "AUD",
@@ -1466,6 +1466,42 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-07-14T05:00:00.000Z",
+      "name": "Exports (Jun)",
+      "impact": "Medium",
+      "forecast": "18.2%",
+      "previous": "13.80M",
+      "actual": "",
+      "sources": [
+        "investing"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-14T05:00:00.000Z",
+      "name": "Imports (Jun)",
+      "impact": "Medium",
+      "forecast": "24.0%",
+      "previous": "21.50M",
+      "actual": "",
+      "sources": [
+        "investing"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-14T05:00:00.000Z",
+      "name": "Trade Balance (Jun)",
+      "impact": "Medium",
+      "forecast": "121.00B",
+      "previous": "723.98B",
+      "actual": "",
+      "sources": [
+        "investing"
+      ]
+    },
+    {
       "currency": "EUR",
       "time": "2026-07-14T06:00:00.000Z",
       "name": "Wholesale Prices YoY (Jun)",
@@ -1619,42 +1655,6 @@
       "actual": "",
       "sources": [
         "myfxbook"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-14T09:28:58.000Z",
-      "name": "Exports (YoY) (Jun)",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "19.4%",
-      "actual": "",
-      "sources": [
-        "investing"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-14T09:28:58.000Z",
-      "name": "Imports (YoY) (Jun)",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "27.4%",
-      "actual": "",
-      "sources": [
-        "investing"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-14T09:29:20.000Z",
-      "name": "Trade Balance (USD) (Jun)",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "105.43B",
-      "actual": "",
-      "sources": [
-        "investing"
       ]
     },
     {
@@ -2166,7 +2166,7 @@
       "time": "2026-07-15T01:50:00.000Z",
       "name": "Core Machinery Orders (MoM) (May)",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-4.2%",
       "previous": "8.7%",
       "actual": "",
       "sources": [
@@ -2814,7 +2814,7 @@
       "time": "2026-07-15T15:45:00.000Z",
       "name": "BoC Rate Statement",
       "impact": "High",
-      "forecast": "",
+      "forecast": "2.25%",
       "previous": "2.25%",
       "actual": "",
       "sources": [
