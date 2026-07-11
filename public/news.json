@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T16:23:01.848Z",
+  "generatedAt": "2026-07-11T16:29:51.484Z",
   "events": [
     {
       "currency": "AUD",
@@ -1206,7 +1206,7 @@
       "time": "2026-07-13T20:00:00.000Z",
       "name": "Federal Budget Balance (Jun)",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "-132.8B",
       "previous": "-293.0B",
       "actual": "",
       "sources": [
@@ -1338,7 +1338,7 @@
       "time": "2026-07-14T01:01:00.000Z",
       "name": "BRC Retail Sales Monitor (YoY) (Jun)",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "2.9%",
       "previous": "3.4%",
       "actual": "",
       "sources": [
@@ -1698,7 +1698,7 @@
       "time": "2026-07-14T10:00:00.000Z",
       "name": "New Loans (Jun)",
       "impact": "Medium",
-      "forecast": "2,000.0B",
+      "forecast": "1,950.0B",
       "previous": "520.0B",
       "actual": "",
       "sources": [
@@ -3162,7 +3162,7 @@
       "time": "2026-07-16T08:00:00.000Z",
       "name": "GDP (MoM) (May)",
       "impact": "High",
-      "forecast": "",
+      "forecast": "0.1%",
       "previous": "-0.1%",
       "actual": "",
       "sources": [
@@ -3186,7 +3186,7 @@
       "time": "2026-07-16T08:00:00.000Z",
       "name": "Industrial Production (MoM) (May)",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "0.1%",
       "previous": "0.0%",
       "actual": "",
       "sources": [
@@ -3198,7 +3198,7 @@
       "time": "2026-07-16T08:00:00.000Z",
       "name": "Trade Balance (May)",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "-25.50B",
       "previous": "-26.05B",
       "actual": "",
       "sources": [
@@ -3426,7 +3426,7 @@
       "time": "2026-07-16T14:15:00.000Z",
       "name": "Housing Starts (Jun)",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "260.0K",
       "previous": "261.4K",
       "actual": "",
       "sources": [
@@ -3450,7 +3450,7 @@
       "time": "2026-07-16T14:30:00.000Z",
       "name": "Continuing Jobless Claims",
       "impact": "High",
-      "forecast": "",
+      "forecast": "218K",
       "previous": "1,814K",
       "actual": "",
       "sources": [
@@ -3474,7 +3474,7 @@
       "time": "2026-07-16T14:30:00.000Z",
       "name": "Philadelphia Fed Manufacturing Index (Jul)",
       "impact": "High",
-      "forecast": "",
+      "forecast": "12.0",
       "previous": "10.3",
       "actual": "",
       "sources": [
@@ -4063,7 +4063,7 @@
       "time": "2026-07-17T16:00:00.000Z",
       "name": "Michigan Consumer Sentiment (Jul)",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "51.0",
       "previous": "49.5",
       "actual": "",
       "sources": [
