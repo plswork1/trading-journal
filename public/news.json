@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T11:51:21.101Z",
+  "generatedAt": "2026-07-13T14:04:07.863Z",
   "events": [
     {
       "currency": "NZD",
@@ -947,7 +947,7 @@
       "currency": "GBP",
       "time": "2026-07-14T08:45:00.000Z",
       "name": "BOE Gov Bailey Speaks",
-      "impact": "High",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
