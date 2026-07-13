@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T17:06:01.270Z",
+  "generatedAt": "2026-07-13T19:11:22.715Z",
   "events": [
     {
       "currency": "NZD",
@@ -338,24 +338,24 @@
       ]
     },
     {
-      "currency": "GBP",
-      "time": "2026-07-13T18:00:00.000Z",
-      "name": "MPC Member Pill Speaks",
+      "currency": "USD",
+      "time": "2026-07-13T17:59:00.000Z",
+      "name": "Federal Budget Balance",
       "impact": "Low",
-      "forecast": "",
-      "previous": "",
+      "forecast": "-135.8B",
+      "previous": "-292.6B",
       "actual": "",
       "sources": [
         "forexfactory"
       ]
     },
     {
-      "currency": "USD",
+      "currency": "GBP",
       "time": "2026-07-13T18:00:00.000Z",
-      "name": "Federal Budget Balance",
+      "name": "MPC Member Pill Speaks",
       "impact": "Low",
-      "forecast": "-135.8B",
-      "previous": "-292.6B",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -1992,7 +1992,7 @@
       "time": "2026-07-15T12:30:00.000Z",
       "name": "Core PPI m/m",
       "impact": "High",
-      "forecast": "0.3%",
+      "forecast": "0.4%",
       "previous": "0.4%",
       "actual": "",
       "sources": [
@@ -2005,7 +2005,7 @@
       "time": "2026-07-15T12:30:00.000Z",
       "name": "Empire State Manufacturing Index",
       "impact": "High",
-      "forecast": "8.7",
+      "forecast": "9.4",
       "previous": "5.7",
       "actual": "",
       "sources": [
@@ -2624,7 +2624,7 @@
       "time": "2026-07-16T06:00:00.000Z",
       "name": "GDP m/m",
       "impact": "High",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "-0.1%",
       "actual": "",
       "sources": [
@@ -2637,7 +2637,7 @@
       "time": "2026-07-16T06:00:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "High",
-      "forecast": "-22.8B",
+      "forecast": "-23.1B",
       "previous": "-26.0B",
       "actual": "",
       "sources": [
@@ -2782,7 +2782,7 @@
       "time": "2026-07-16T09:00:00.000Z",
       "name": "Italian Trade Balance",
       "impact": "Medium",
-      "forecast": "4.50B",
+      "forecast": "4.83B",
       "previous": "4.29B",
       "actual": "",
       "sources": [
@@ -2879,7 +2879,7 @@
       "time": "2026-07-16T12:15:00.000Z",
       "name": "Housing Starts",
       "impact": "Medium",
-      "forecast": "257K",
+      "forecast": "256K",
       "previous": "261K",
       "actual": "",
       "sources": [
@@ -2892,7 +2892,7 @@
       "time": "2026-07-16T12:30:00.000Z",
       "name": "Core Retail Sales m/m",
       "impact": "High",
-      "forecast": "-0.1%",
+      "forecast": "0.0%",
       "previous": "0.8%",
       "actual": "",
       "sources": [
@@ -2905,7 +2905,7 @@
       "time": "2026-07-16T12:30:00.000Z",
       "name": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "forecast": "12.1",
+      "forecast": "12.7",
       "previous": "10.3",
       "actual": "",
       "sources": [
@@ -2918,7 +2918,7 @@
       "time": "2026-07-16T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "High",
-      "forecast": "215K",
+      "forecast": "216K",
       "previous": "215K",
       "actual": "",
       "sources": [
@@ -3354,7 +3354,7 @@
       "time": "2026-07-17T08:00:00.000Z",
       "name": "Current Account",
       "impact": "Low",
-      "forecast": "17.1B",
+      "forecast": "18.1B",
       "previous": "15.7B",
       "actual": "",
       "sources": [
@@ -3515,7 +3515,7 @@
       "time": "2026-07-17T12:30:00.000Z",
       "name": "Housing Starts",
       "impact": "High",
-      "forecast": "1.32M",
+      "forecast": "1.31M",
       "previous": "1.18M",
       "actual": "",
       "sources": [
@@ -3528,7 +3528,7 @@
       "time": "2026-07-17T12:30:00.000Z",
       "name": "Import Prices m/m",
       "impact": "Medium",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "previous": "1.9%",
       "actual": "",
       "sources": [
@@ -3591,7 +3591,7 @@
       "time": "2026-07-17T14:00:00.000Z",
       "name": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "forecast": "51.4",
+      "forecast": "51.0",
       "previous": "48.9",
       "actual": "",
       "sources": [
