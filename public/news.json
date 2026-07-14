@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T07:03:13.457Z",
+  "generatedAt": "2026-07-14T09:46:03.519Z",
   "events": [
     {
       "currency": "NZD",
@@ -881,30 +881,6 @@
       "actual": "",
       "sources": [
         "myfxbook"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-14T08:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "8.5%",
-      "previous": "8.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-14T08:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "1950B",
-      "previous": "520B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
       ]
     },
     {
@@ -1864,6 +1840,30 @@
       "actual": "",
       "sources": [
         "myfxbook"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-15T09:33:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "8.5%",
+      "previous": "8.6%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-15T09:33:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "1950B",
+      "previous": "520B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
