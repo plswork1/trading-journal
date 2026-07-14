@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T01:24:47.956Z",
+  "generatedAt": "2026-07-14T04:40:41.483Z",
   "events": [
     {
       "currency": "NZD",
@@ -571,18 +571,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-07-14T02:03:00.000Z",
-      "name": "Trade Balance",
-      "impact": "Low",
-      "forecast": "810B",
-      "previous": "724B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "AUD",
       "time": "2026-07-14T02:30:00.000Z",
       "name": "Westpac Consumer Sentiment (Jul)",
@@ -592,6 +580,18 @@
       "actual": "",
       "sources": [
         "investing"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-14T02:31:00.000Z",
+      "name": "Trade Balance",
+      "impact": "Low",
+      "forecast": "810B",
+      "previous": "724B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
