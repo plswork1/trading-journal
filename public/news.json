@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T17:02:26.366Z",
+  "generatedAt": "2026-07-14T19:01:22.452Z",
   "events": [
     {
       "currency": "NZD",
@@ -1992,7 +1992,7 @@
       "time": "2026-07-15T12:30:00.000Z",
       "name": "Core PPI m/m",
       "impact": "High",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "previous": "0.4%",
       "actual": "",
       "sources": [
@@ -2005,7 +2005,7 @@
       "time": "2026-07-15T12:30:00.000Z",
       "name": "Empire State Manufacturing Index",
       "impact": "High",
-      "forecast": "9.4",
+      "forecast": "9.3",
       "previous": "5.7",
       "actual": "",
       "sources": [
@@ -2165,7 +2165,7 @@
       "time": "2026-07-15T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "-2.4M",
+      "forecast": "-1.8M",
       "previous": "3.0M",
       "actual": "",
       "sources": [
@@ -3005,7 +3005,7 @@
       "time": "2026-07-16T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "45B",
       "previous": "61B",
       "actual": "",
       "sources": [
