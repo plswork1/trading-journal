@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:06:18.014Z",
+  "generatedAt": "2026-07-15T09:50:05.490Z",
   "events": [
     {
       "currency": "NZD",
@@ -1770,6 +1770,18 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-07-15T07:00:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "8.5%",
+      "previous": "8.6%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "EUR",
       "time": "2026-07-15T07:00:00.000Z",
       "name": "Inflation Rate MoM (Jun)",
@@ -1779,6 +1791,18 @@
       "actual": "",
       "sources": [
         "myfxbook"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-15T07:01:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "1950B",
+      "previous": "520B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
@@ -1840,30 +1864,6 @@
       "actual": "",
       "sources": [
         "myfxbook"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-15T09:33:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "8.5%",
-      "previous": "8.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-15T09:33:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "1950B",
-      "previous": "520B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
       ]
     },
     {
