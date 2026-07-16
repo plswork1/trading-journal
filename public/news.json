@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T09:56:08.444Z",
+  "generatedAt": "2026-07-16T11:27:45.278Z",
   "events": [
     {
       "currency": "NZD",
@@ -2816,7 +2816,7 @@
     },
     {
       "currency": "GBP",
-      "time": "2026-07-16T09:33:00.000Z",
+      "time": "2026-07-16T09:02:00.000Z",
       "name": "10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
