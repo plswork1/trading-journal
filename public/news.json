@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:02:58.359Z",
+  "generatedAt": "2026-07-16T18:55:17.344Z",
   "events": [
     {
       "currency": "NZD",
@@ -3219,7 +3219,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-07-16T20:00:00.000Z",
+      "time": "2026-07-16T20:30:00.000Z",
       "name": "Treasury Currency Report",
       "impact": "Low",
       "forecast": "",
