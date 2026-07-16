@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T19:56:07.489Z",
+  "generatedAt": "2026-07-16T20:48:35.096Z",
   "events": [
     {
       "currency": "NZD",
@@ -3220,18 +3220,6 @@
     {
       "currency": "USD",
       "time": "2026-07-16T20:30:00.000Z",
-      "name": "Treasury Currency Report",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-07-16T20:30:00.000Z",
       "name": "Fed Balance Sheet (Jul/15)",
       "impact": "Low",
       "forecast": "",
@@ -3776,6 +3764,18 @@
       "actual": "",
       "sources": [
         "investing"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-07-17T20:30:00.000Z",
+      "name": "Treasury Currency Report",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
