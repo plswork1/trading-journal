@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T17:25:30.750Z",
+  "generatedAt": "2026-07-20T19:24:24.707Z",
   "events": [
     {
       "currency": "NZD",
@@ -1785,7 +1785,7 @@
       "time": "2026-07-21T06:00:00.000Z",
       "name": "Claimant Count Change",
       "impact": "High",
-      "forecast": "28.3K",
+      "forecast": "29.4K",
       "previous": "31.2K",
       "actual": "",
       "sources": [
@@ -1811,7 +1811,7 @@
       "time": "2026-07-21T06:00:00.000Z",
       "name": "Public Sector Net Borrowing",
       "impact": "Low",
-      "forecast": "18.1B",
+      "forecast": "17.8B",
       "previous": "23.3B",
       "actual": "",
       "sources": [
@@ -1921,7 +1921,7 @@
       "time": "2026-07-21T09:00:00.000Z",
       "name": "ZEW Economic Sentiment",
       "impact": "High",
-      "forecast": "11.5",
+      "forecast": "11.2",
       "previous": "9.5",
       "actual": "",
       "sources": [
@@ -2103,7 +2103,7 @@
       "time": "2026-07-21T23:50:00.000Z",
       "name": "Trade Balance",
       "impact": "High",
-      "forecast": "-0.54T",
+      "forecast": "-0.56T",
       "previous": "-0.09T",
       "actual": "",
       "sources": [
@@ -2189,7 +2189,7 @@
       "time": "2026-07-22T06:00:00.000Z",
       "name": "PPI Input m/m",
       "impact": "Low",
-      "forecast": "-0.6%",
+      "forecast": "-0.7%",
       "previous": "0.2%",
       "actual": "",
       "sources": [
@@ -2238,7 +2238,7 @@
       "time": "2026-07-22T08:30:00.000Z",
       "name": "HPI y/y",
       "impact": "Low",
-      "forecast": "3.9%",
+      "forecast": "3.2%",
       "previous": "3.8%",
       "actual": "",
       "sources": [
@@ -2407,7 +2407,7 @@
       "time": "2026-07-23T01:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "15.2K",
+      "forecast": "16.4K",
       "previous": "40.3K",
       "actual": "",
       "sources": [
@@ -2614,7 +2614,7 @@
       "time": "2026-07-23T12:30:00.000Z",
       "name": "Core Retail Sales m/m",
       "impact": "High",
-      "forecast": "1.4%",
+      "forecast": "1.3%",
       "previous": "0.1%",
       "actual": "",
       "sources": [
@@ -2787,7 +2787,7 @@
       "time": "2026-07-23T23:01:00.000Z",
       "name": "GfK Consumer Confidence",
       "impact": "Medium",
-      "forecast": "-21",
+      "forecast": "-22",
       "previous": "-23",
       "actual": "",
       "sources": [
@@ -2884,7 +2884,7 @@
       "time": "2026-07-24T06:00:00.000Z",
       "name": "German GfK Consumer Climate",
       "impact": "High",
-      "forecast": "-28.5",
+      "forecast": "-28.7",
       "previous": "-29.2",
       "actual": "",
       "sources": [
@@ -2897,7 +2897,7 @@
       "time": "2026-07-24T06:00:00.000Z",
       "name": "Retail Sales m/m",
       "impact": "High",
-      "forecast": "-0.1%",
+      "forecast": "-0.3%",
       "previous": "1.2%",
       "actual": "",
       "sources": [
@@ -2922,7 +2922,7 @@
       "time": "2026-07-24T07:15:00.000Z",
       "name": "French Flash Manufacturing PMI",
       "impact": "Medium",
-      "forecast": "51.2",
+      "forecast": "51.0",
       "previous": "50.7",
       "actual": "",
       "sources": [
@@ -2934,7 +2934,7 @@
       "time": "2026-07-24T07:30:00.000Z",
       "name": "German Flash Manufacturing PMI",
       "impact": "Medium",
-      "forecast": "50.5",
+      "forecast": "50.4",
       "previous": "50.0",
       "actual": "",
       "sources": [
@@ -2946,7 +2946,7 @@
       "time": "2026-07-24T08:00:00.000Z",
       "name": "Flash Manufacturing PMI",
       "impact": "Low",
-      "forecast": "51.6",
+      "forecast": "51.5",
       "previous": "51.3",
       "actual": "",
       "sources": [
@@ -2970,7 +2970,7 @@
       "time": "2026-07-24T08:30:00.000Z",
       "name": "Flash Manufacturing PMI",
       "impact": "Medium",
-      "forecast": "52.1",
+      "forecast": "52.0",
       "previous": "53.1",
       "actual": "",
       "sources": [
@@ -3103,7 +3103,7 @@
       "time": "2026-07-24T13:45:00.000Z",
       "name": "Flash Manufacturing PMI",
       "impact": "Low",
-      "forecast": "54.5",
+      "forecast": "54.4",
       "previous": "55.7",
       "actual": "",
       "sources": [
@@ -3115,7 +3115,7 @@
       "time": "2026-07-24T14:00:00.000Z",
       "name": "New Home Sales",
       "impact": "High",
-      "forecast": "604K",
+      "forecast": "609K",
       "previous": "580K",
       "actual": "",
       "sources": [
