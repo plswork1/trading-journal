@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T05:39:54.928Z",
+  "generatedAt": "2026-07-20T08:39:09.934Z",
   "events": [
     {
       "currency": "NZD",
@@ -3351,18 +3351,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-07-20T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-8.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "CAD",
       "time": "2026-07-20T12:30:00.000Z",
       "name": "CPI m/m",
@@ -3453,6 +3441,18 @@
       "impact": "Low",
       "forecast": "4.9%",
       "previous": "4.9%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-21T06:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-8.6%",
       "actual": "",
       "sources": [
         "forexfactory"
