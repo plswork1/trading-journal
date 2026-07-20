@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:47:26.405Z",
+  "generatedAt": "2026-07-20T15:44:55.262Z",
   "events": [
     {
       "currency": "NZD",
@@ -1811,7 +1811,7 @@
       "time": "2026-07-21T06:00:00.000Z",
       "name": "Public Sector Net Borrowing",
       "impact": "Low",
-      "forecast": "18.2B",
+      "forecast": "18.1B",
       "previous": "23.3B",
       "actual": "",
       "sources": [
