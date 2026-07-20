@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T15:44:55.262Z",
+  "generatedAt": "2026-07-20T17:24:21.478Z",
   "events": [
     {
       "currency": "NZD",
@@ -1725,7 +1725,7 @@
       "time": "2026-07-20T22:45:00.000Z",
       "name": "CPI q/q",
       "impact": "High",
-      "forecast": "1.5%",
+      "forecast": "1.4%",
       "previous": "0.9%",
       "actual": "",
       "sources": [
