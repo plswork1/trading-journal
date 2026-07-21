@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T14:55:14.228Z",
+  "generatedAt": "2026-07-21T16:15:22.486Z",
   "events": [
     {
       "currency": "NZD",
@@ -2028,7 +2028,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-07-21T14:50:00.000Z",
+      "time": "2026-07-21T15:16:00.000Z",
       "name": "GDT Price Index",
       "impact": "Low",
       "forecast": "",
@@ -2322,7 +2322,7 @@
       "time": "2026-07-22T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Medium",
-      "forecast": "",
+      "forecast": "-2.0M",
       "previous": "-1.7M",
       "actual": "",
       "sources": [
@@ -2702,7 +2702,7 @@
       "time": "2026-07-23T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "29B",
       "previous": "41B",
       "actual": "",
       "sources": [
