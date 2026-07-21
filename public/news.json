@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T07:32:20.104Z",
+  "generatedAt": "2026-07-21T10:14:41.976Z",
   "events": [
     {
       "currency": "NZD",
@@ -1857,18 +1857,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-07-21T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-8.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-07-21T08:00:00.000Z",
       "name": "Current Account (May)",
@@ -1919,10 +1907,10 @@
     {
       "currency": "EUR",
       "time": "2026-07-21T09:00:00.000Z",
-      "name": "ZEW Economic Sentiment",
+      "name": "German ZEW Economic Sentiment",
       "impact": "High",
-      "forecast": "11.2",
-      "previous": "9.5",
+      "forecast": "15.1",
+      "previous": "10.5",
       "actual": "",
       "sources": [
         "forexfactory",
@@ -2231,6 +2219,18 @@
       "actual": "",
       "sources": [
         "myfxbook"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-22T06:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-8.6%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
