@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T01:42:36.040Z",
+  "generatedAt": "2026-07-22T04:58:19.493Z",
   "events": [
     {
       "currency": "NZD",
@@ -1907,10 +1907,10 @@
     {
       "currency": "EUR",
       "time": "2026-07-21T09:00:00.000Z",
-      "name": "German ZEW Economic Sentiment",
+      "name": "ZEW Economic Sentiment",
       "impact": "High",
-      "forecast": "15.1",
-      "previous": "10.5",
+      "forecast": "11.2",
+      "previous": "9.5",
       "actual": "",
       "sources": [
         "forexfactory",
@@ -2137,7 +2137,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-07-22T03:00:00.000Z",
+      "time": "2026-07-22T03:03:00.000Z",
       "name": "Credit Card Spending y/y",
       "impact": "Low",
       "forecast": "4.5%",
@@ -2400,6 +2400,18 @@
       "actual": "",
       "sources": [
         "myfxbook"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-07-22T19:00:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
