@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T15:01:22.124Z",
+  "generatedAt": "2026-07-23T17:08:56.624Z",
   "events": [
     {
       "currency": "NZD",
@@ -2489,6 +2489,18 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-07-23T08:56:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-8.6%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "GBP",
       "time": "2026-07-23T09:00:00.000Z",
       "name": "Conventional Gilt",
@@ -2903,18 +2915,6 @@
       "sources": [
         "forexfactory",
         "myfxbook"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-07-24T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-8.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
       ]
     },
     {
