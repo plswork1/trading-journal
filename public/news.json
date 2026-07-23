@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:27:18.576Z",
+  "generatedAt": "2026-07-23T08:11:07.995Z",
   "events": [
     {
       "currency": "NZD",
@@ -2465,18 +2465,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-07-23T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-8.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-07-23T06:45:00.000Z",
       "name": "Business Confidence (Jul)",
@@ -2915,6 +2903,18 @@
       "sources": [
         "forexfactory",
         "myfxbook"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-07-24T06:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-8.6%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
