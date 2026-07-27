@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T21:02:03.534Z",
+  "generatedAt": "2026-07-27T22:51:27.049Z",
   "events": [
     {
       "currency": "NZD",
@@ -3513,7 +3513,7 @@
       "time": "2026-07-30T01:30:00.000Z",
       "name": "Building Approvals m/m",
       "impact": "Low",
-      "forecast": "-0.5%",
+      "forecast": "-0.7%",
       "previous": "-1.1%",
       "actual": "",
       "sources": [
@@ -3597,7 +3597,7 @@
       "time": "2026-07-30T07:00:00.000Z",
       "name": "KOF Economic Barometer",
       "impact": "Low",
-      "forecast": "100.7",
+      "forecast": "100.9",
       "previous": "101.2",
       "actual": "",
       "sources": [
@@ -3609,7 +3609,7 @@
       "time": "2026-07-30T07:00:00.000Z",
       "name": "Spanish Flash CPI y/y",
       "impact": "Low",
-      "forecast": "3.1%",
+      "forecast": "3.2%",
       "previous": "3.2%",
       "actual": "",
       "sources": [
@@ -3645,7 +3645,7 @@
       "time": "2026-07-30T09:00:00.000Z",
       "name": "Italian Monthly Unemployment Rate",
       "impact": "Low",
-      "forecast": "5.1%",
+      "forecast": "5.0%",
       "previous": "5.0%",
       "actual": "",
       "sources": [
@@ -3717,7 +3717,7 @@
       "time": "2026-07-30T12:30:00.000Z",
       "name": "Advance GDP q/q",
       "impact": "High",
-      "forecast": "2.3%",
+      "forecast": "2.0%",
       "previous": "2.0%",
       "actual": "",
       "sources": [
@@ -3729,7 +3729,7 @@
       "time": "2026-07-30T12:30:00.000Z",
       "name": "Core PCE Price Index m/m",
       "impact": "High",
-      "forecast": "0.1%",
+      "forecast": "0.2%",
       "previous": "0.3%",
       "actual": "",
       "sources": [
@@ -3741,7 +3741,7 @@
       "time": "2026-07-30T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "206K",
+      "forecast": "201K",
       "previous": "187K",
       "actual": "",
       "sources": [
@@ -3789,7 +3789,7 @@
       "time": "2026-07-30T23:50:00.000Z",
       "name": "Prelim Industrial Production m/m",
       "impact": "Low",
-      "forecast": "0.7%",
+      "forecast": "1.0%",
       "previous": "0.5%",
       "actual": "",
       "sources": [
@@ -3801,7 +3801,7 @@
       "time": "2026-07-30T23:50:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
-      "forecast": "2.8%",
+      "forecast": "3.1%",
       "previous": "5.3%",
       "actual": "",
       "sources": [
@@ -3813,7 +3813,7 @@
       "time": "2026-07-31T01:30:00.000Z",
       "name": "PPI q/q",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.5%",
       "previous": "0.4%",
       "actual": "",
       "sources": [
@@ -3837,7 +3837,7 @@
       "time": "2026-07-31T01:30:00.000Z",
       "name": "Manufacturing PMI",
       "impact": "Low",
-      "forecast": "49.9",
+      "forecast": "50.1",
       "previous": "50.3",
       "actual": "",
       "sources": [
@@ -3885,7 +3885,7 @@
       "time": "2026-07-31T05:00:00.000Z",
       "name": "Housing Starts y/y",
       "impact": "Low",
-      "forecast": "13.2%",
+      "forecast": "12.7%",
       "previous": "33.9%",
       "actual": "",
       "sources": [
@@ -3909,7 +3909,7 @@
       "time": "2026-07-31T06:00:00.000Z",
       "name": "Nationwide HPI m/m",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "0.1%",
       "previous": "0.0%",
       "actual": "",
       "sources": [
@@ -3921,7 +3921,7 @@
       "time": "2026-07-31T06:30:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
-      "forecast": "3.2%",
+      "forecast": "3.1%",
       "previous": "3.5%",
       "actual": "",
       "sources": [
@@ -3969,7 +3969,7 @@
       "time": "2026-07-31T09:00:00.000Z",
       "name": "Italian Prelim CPI m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.3%",
       "previous": "0.0%",
       "actual": "",
       "sources": [
@@ -4017,7 +4017,7 @@
       "time": "2026-07-31T13:45:00.000Z",
       "name": "Chicago PMI",
       "impact": "Low",
-      "forecast": "57.5",
+      "forecast": "55.9",
       "previous": "56.7",
       "actual": "",
       "sources": [
@@ -4029,7 +4029,7 @@
       "time": "2026-07-31T14:00:00.000Z",
       "name": "Revised UoM Consumer Sentiment",
       "impact": "Medium",
-      "forecast": "54.2",
+      "forecast": "53.9",
       "previous": "54.4",
       "actual": "",
       "sources": [
