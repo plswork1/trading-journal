@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T19:11:38.344Z",
+  "generatedAt": "2026-07-27T21:02:03.534Z",
   "events": [
     {
       "currency": "NZD",
@@ -3176,7 +3176,7 @@
       "time": "2026-07-27T23:01:00.000Z",
       "name": "BRC Shop Price Index y/y",
       "impact": "Low",
-      "forecast": "1.2%",
+      "forecast": "1.1%",
       "previous": "1.2%",
       "actual": "",
       "sources": [
@@ -3213,7 +3213,7 @@
       "time": "2026-07-28T07:00:00.000Z",
       "name": "Spanish Unemployment Rate",
       "impact": "Low",
-      "forecast": "10.7%",
+      "forecast": "10.1%",
       "previous": "10.8%",
       "actual": "",
       "sources": [
@@ -3222,7 +3222,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-07-28T10:03:00.000Z",
+      "time": "2026-07-28T10:00:00.000Z",
       "name": "German Buba Monthly Report",
       "impact": "Low",
       "forecast": "",
@@ -3249,7 +3249,7 @@
       "time": "2026-07-28T12:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-98.0B",
+      "forecast": "-100.3B",
       "previous": "-105.8B",
       "actual": "",
       "sources": [
@@ -3261,7 +3261,7 @@
       "time": "2026-07-28T12:30:00.000Z",
       "name": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.4%",
       "previous": "0.3%",
       "actual": "",
       "sources": [
@@ -3273,7 +3273,7 @@
       "time": "2026-07-28T13:00:00.000Z",
       "name": "HPI m/m",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "-0.1%",
       "actual": "",
       "sources": [
@@ -3285,7 +3285,7 @@
       "time": "2026-07-28T13:00:00.000Z",
       "name": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "forecast": "0.8%",
+      "forecast": "1.3%",
       "previous": "1.1%",
       "actual": "",
       "sources": [
@@ -3297,7 +3297,7 @@
       "time": "2026-07-28T14:00:00.000Z",
       "name": "CB Consumer Confidence",
       "impact": "Medium",
-      "forecast": "92.1",
+      "forecast": "92.4",
       "previous": "91.2",
       "actual": "",
       "sources": [
@@ -3309,7 +3309,7 @@
       "time": "2026-07-28T14:00:00.000Z",
       "name": "Richmond Manufacturing Index",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "7",
       "previous": "4",
       "actual": "",
       "sources": [
@@ -3357,7 +3357,7 @@
       "time": "2026-07-29T06:00:00.000Z",
       "name": "German Import Prices m/m",
       "impact": "Low",
-      "forecast": "-0.8%",
+      "forecast": "-0.7%",
       "previous": "0.7%",
       "actual": "",
       "sources": [
@@ -3393,7 +3393,7 @@
       "time": "2026-07-29T08:30:00.000Z",
       "name": "Mortgage Approvals",
       "impact": "Low",
-      "forecast": "56K",
+      "forecast": "57K",
       "previous": "56K",
       "actual": "",
       "sources": [
@@ -3429,7 +3429,7 @@
       "time": "2026-07-29T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.7M",
       "previous": "2.0M",
       "actual": "",
       "sources": [
@@ -3670,7 +3670,7 @@
       "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "3.63|1.7",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3695,6 +3695,18 @@
       "impact": "High",
       "forecast": "2-0-7",
       "previous": "2-0-7",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-07-30T11:30:00.000Z",
+      "name": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
