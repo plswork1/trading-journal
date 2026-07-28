@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:17:55.062Z",
+  "generatedAt": "2026-07-28T19:06:47.817Z",
   "events": [
     {
       "currency": "NZD",
@@ -3717,7 +3717,7 @@
       "time": "2026-07-30T12:30:00.000Z",
       "name": "Advance GDP q/q",
       "impact": "High",
-      "forecast": "2.0%",
+      "forecast": "2.1%",
       "previous": "2.0%",
       "actual": "",
       "sources": [
@@ -3753,7 +3753,7 @@
       "time": "2026-07-30T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "37B",
       "previous": "32B",
       "actual": "",
       "sources": [
