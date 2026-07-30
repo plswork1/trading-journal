@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T10:12:30.676Z",
+  "generatedAt": "2026-07-30T12:23:15.907Z",
   "events": [
     {
       "currency": "NZD",
@@ -3666,7 +3666,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-07-30T09:33:00.000Z",
+      "time": "2026-07-30T09:06:00.000Z",
       "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -3702,7 +3702,7 @@
     },
     {
       "currency": "GBP",
-      "time": "2026-07-30T11:30:00.000Z",
+      "time": "2026-07-30T12:00:00.000Z",
       "name": "BOE Gov Bailey Speaks",
       "impact": "High",
       "forecast": "",
