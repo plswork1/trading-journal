@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T23:06:56.147Z",
+  "generatedAt": "2026-07-31T01:49:52.383Z",
   "events": [
     {
       "currency": "NZD",
@@ -3846,7 +3846,7 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-07-31T02:30:00.000Z",
+      "time": "2026-07-31T02:50:00.000Z",
       "name": "BOJ Policy Rate",
       "impact": "High",
       "forecast": "<1.00%",
@@ -3858,7 +3858,7 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-07-31T02:30:00.000Z",
+      "time": "2026-07-31T02:50:00.000Z",
       "name": "Monetary Policy Statement",
       "impact": "High",
       "forecast": "",
@@ -3870,7 +3870,7 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-07-31T02:31:00.000Z",
+      "time": "2026-07-31T02:51:00.000Z",
       "name": "BOJ Outlook Report",
       "impact": "High",
       "forecast": "",
