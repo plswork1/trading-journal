@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T05:24:53.531Z",
+  "generatedAt": "2026-07-31T08:33:09.389Z",
   "events": [
     {
       "currency": "NZD",
@@ -3893,18 +3893,6 @@
       ]
     },
     {
-      "currency": "JPY",
-      "time": "2026-07-31T05:30:00.000Z",
-      "name": "BOJ Press Conference",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "GBP",
       "time": "2026-07-31T06:00:00.000Z",
       "name": "Nationwide HPI m/m",
@@ -3923,6 +3911,18 @@
       "impact": "Low",
       "forecast": "3.1%",
       "previous": "3.5%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "JPY",
+      "time": "2026-07-31T06:30:00.000Z",
+      "name": "BOJ Press Conference",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
