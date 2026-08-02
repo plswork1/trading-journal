@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T14:26:33.465Z",
+  "generatedAt": "2026-08-02T15:52:37.553Z",
   "events": [
     {
       "currency": "NZD",
@@ -3119,6 +3119,18 @@
       "actual": "",
       "sources": [
         "myfxbook"
+      ]
+    },
+    {
+      "currency": "All",
+      "time": "2026-08-02T09:15:00.000Z",
+      "name": "OPEC-JMMC Meetings",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
       ]
     },
     {
