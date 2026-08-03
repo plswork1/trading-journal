@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T19:18:17.714Z",
+  "generatedAt": "2026-08-03T20:54:34.860Z",
   "events": [
     {
       "currency": "NZD",
@@ -3906,7 +3906,7 @@
       "time": "2026-08-06T12:30:00.000Z",
       "name": "Prelim Nonfarm Productivity q/q",
       "impact": "Low",
-      "forecast": "0.7%",
+      "forecast": "0.6%",
       "previous": "0.8%",
       "actual": "",
       "sources": [
@@ -3954,7 +3954,7 @@
       "time": "2026-08-06T23:30:00.000Z",
       "name": "Household Spending y/y",
       "impact": "Low",
-      "forecast": "0.9%",
+      "forecast": "0.8%",
       "previous": "-0.4%",
       "actual": "",
       "sources": [
@@ -3966,7 +3966,7 @@
       "time": "2026-08-07T02:03:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "740B",
+      "forecast": "735B",
       "previous": "859B",
       "actual": "",
       "sources": [
@@ -3990,7 +3990,7 @@
       "time": "2026-08-07T06:00:00.000Z",
       "name": "German Industrial Production m/m",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.2%",
       "previous": "0.9%",
       "actual": "",
       "sources": [
@@ -4002,7 +4002,7 @@
       "time": "2026-08-07T06:00:00.000Z",
       "name": "German Trade Balance",
       "impact": "Low",
-      "forecast": "17.0B",
+      "forecast": "17.2B",
       "previous": "19.1B",
       "actual": "",
       "sources": [
@@ -4062,7 +4062,7 @@
       "time": "2026-08-07T12:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "15.0K",
+      "forecast": "14.8K",
       "previous": "18.2K",
       "actual": "",
       "sources": [
@@ -4098,7 +4098,7 @@
       "time": "2026-08-07T12:30:00.000Z",
       "name": "Non-Farm Employment Change",
       "impact": "High",
-      "forecast": "88K",
+      "forecast": "85K",
       "previous": "57K",
       "actual": "",
       "sources": [
@@ -4146,7 +4146,7 @@
       "time": "2026-08-07T19:00:00.000Z",
       "name": "Consumer Credit m/m",
       "impact": "Low",
-      "forecast": "12.1B",
+      "forecast": "11.2B",
       "previous": "-0.2B",
       "actual": "",
       "sources": [
