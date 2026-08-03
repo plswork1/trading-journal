@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T15:37:03.039Z",
+  "generatedAt": "2026-08-03T17:46:43.184Z",
   "events": [
     {
       "currency": "NZD",
@@ -3569,6 +3569,18 @@
       "currency": "JPY",
       "time": "2026-08-04T23:50:00.000Z",
       "name": "Monetary Policy Meeting Minutes",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-05T00:15:00.000Z",
+      "name": "FOMC Member Schmid Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
