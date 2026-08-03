@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T17:46:43.184Z",
+  "generatedAt": "2026-08-03T19:18:17.714Z",
   "events": [
     {
       "currency": "NZD",
@@ -3339,7 +3339,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-08-03T18:03:00.000Z",
+      "time": "2026-08-03T18:00:00.000Z",
       "name": "Loan Officer Survey",
       "impact": "Low",
       "forecast": "",
@@ -3414,7 +3414,7 @@
       "time": "2026-08-04T07:00:00.000Z",
       "name": "Spanish Unemployment Change",
       "impact": "Low",
-      "forecast": "-20.3K",
+      "forecast": "-18.4K",
       "previous": "-28.7K",
       "actual": "",
       "sources": [
@@ -3426,7 +3426,7 @@
       "time": "2026-08-04T08:00:00.000Z",
       "name": "Italian Retail Sales m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.3%",
       "previous": "0.2%",
       "actual": "",
       "sources": [
@@ -3462,7 +3462,7 @@
       "time": "2026-08-04T13:30:00.000Z",
       "name": "Manufacturing PMI",
       "impact": "Low",
-      "forecast": "50.2",
+      "forecast": "52.2",
       "previous": "53.0",
       "actual": "",
       "sources": [
@@ -3474,7 +3474,7 @@
       "time": "2026-08-04T14:00:00.000Z",
       "name": "JOLTS Job Openings",
       "impact": "Medium",
-      "forecast": "7.42M",
+      "forecast": "7.44M",
       "previous": "7.59M",
       "actual": "",
       "sources": [
@@ -3486,7 +3486,7 @@
       "time": "2026-08-04T14:00:00.000Z",
       "name": "Factory Orders m/m",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.2%",
       "previous": "-1.3%",
       "actual": "",
       "sources": [
@@ -3630,7 +3630,7 @@
       "time": "2026-08-05T07:15:00.000Z",
       "name": "Spanish Services PMI",
       "impact": "Low",
-      "forecast": "54.8",
+      "forecast": "54.9",
       "previous": "54.2",
       "actual": "",
       "sources": [
@@ -3642,7 +3642,7 @@
       "time": "2026-08-05T07:45:00.000Z",
       "name": "Italian Services PMI",
       "impact": "Low",
-      "forecast": "51.2",
+      "forecast": "51.0",
       "previous": "50.2",
       "actual": "",
       "sources": [
@@ -3678,7 +3678,7 @@
       "time": "2026-08-05T09:00:00.000Z",
       "name": "PPI m/m",
       "impact": "Low",
-      "forecast": "-0.3%",
+      "forecast": "-0.2%",
       "previous": "0.2%",
       "actual": "",
       "sources": [
@@ -3690,7 +3690,7 @@
       "time": "2026-08-05T12:15:00.000Z",
       "name": "ADP Non-Farm Employment Change",
       "impact": "Medium",
-      "forecast": "71K",
+      "forecast": "68K",
       "previous": "98K",
       "actual": "",
       "sources": [
@@ -3762,7 +3762,7 @@
       "time": "2026-08-06T01:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-1.08B",
+      "forecast": "-1.06B",
       "previous": "-3.02B",
       "actual": "",
       "sources": [
@@ -3894,7 +3894,7 @@
       "time": "2026-08-06T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "205K",
+      "forecast": "203K",
       "previous": "197K",
       "actual": "",
       "sources": [
