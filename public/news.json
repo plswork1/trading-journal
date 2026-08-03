@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T23:49:31.631Z",
+  "generatedAt": "2026-08-03T01:50:04.800Z",
   "events": [
     {
       "currency": "NZD",
@@ -3734,6 +3734,18 @@
       ]
     },
     {
+      "currency": "USD",
+      "time": "2026-08-06T00:35:00.000Z",
+      "name": "FOMC Member Daly Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "AUD",
       "time": "2026-08-06T01:30:00.000Z",
       "name": "Goods Trade Balance",
@@ -4124,6 +4136,18 @@
       "impact": "Low",
       "forecast": "12.1B",
       "previous": "-0.2B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-08T16:45:00.000Z",
+      "name": "FOMC Member Bowman Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
