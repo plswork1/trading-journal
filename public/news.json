@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T18:22:12.924Z",
+  "generatedAt": "2026-08-04T20:18:05.774Z",
   "events": [
     {
       "currency": "NZD",
@@ -3726,7 +3726,7 @@
       "time": "2026-08-05T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "-0.9M",
+      "forecast": "-1.5M",
       "previous": "-7.2M",
       "actual": "",
       "sources": [
@@ -3738,6 +3738,18 @@
       "time": "2026-08-05T20:05:00.000Z",
       "name": "FOMC Member Cook Speaks",
       "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-05T20:30:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -3930,7 +3942,7 @@
       "time": "2026-08-06T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "30B",
       "previous": "28B",
       "actual": "",
       "sources": [
@@ -4062,7 +4074,7 @@
       "time": "2026-08-07T12:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "14.8K",
+      "forecast": "17.8K",
       "previous": "18.2K",
       "actual": "",
       "sources": [
@@ -4146,7 +4158,7 @@
       "time": "2026-08-07T19:00:00.000Z",
       "name": "Consumer Credit m/m",
       "impact": "Low",
-      "forecast": "11.2B",
+      "forecast": "11.4B",
       "previous": "-0.2B",
       "actual": "",
       "sources": [
