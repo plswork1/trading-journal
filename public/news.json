@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T11:55:26.452Z",
+  "generatedAt": "2026-08-04T13:47:11.059Z",
   "events": [
     {
       "currency": "NZD",
@@ -3726,7 +3726,7 @@
       "time": "2026-08-05T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.9M",
       "previous": "-7.2M",
       "actual": "",
       "sources": [
