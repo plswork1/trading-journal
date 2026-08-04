@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:47:11.059Z",
+  "generatedAt": "2026-08-04T16:06:40.714Z",
   "events": [
     {
       "currency": "NZD",
@@ -3495,7 +3495,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-08-04T14:10:00.000Z",
+      "time": "2026-08-04T14:13:00.000Z",
       "name": "RCM/TIPP Economic Optimism",
       "impact": "Low",
       "forecast": "47.5",
@@ -3507,7 +3507,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-08-04T14:50:00.000Z",
+      "time": "2026-08-04T15:14:00.000Z",
       "name": "GDT Price Index",
       "impact": "Low",
       "forecast": "",
