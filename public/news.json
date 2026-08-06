@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T07:32:47.767Z",
+  "generatedAt": "2026-08-06T10:27:09.098Z",
   "events": [
     {
       "currency": "NZD",
@@ -3855,19 +3855,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-08-06T09:00:00.000Z",
-      "name": "Retail Sales m/m",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-08-06T09:03:00.000Z",
+      "time": "2026-08-06T08:41:00.000Z",
       "name": "Spanish 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -3879,11 +3867,23 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-08-06T09:18:00.000Z",
+      "time": "2026-08-06T08:57:00.000Z",
       "name": "French 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
       "previous": "3.68|3.3",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-08-06T09:00:00.000Z",
+      "name": "Retail Sales m/m",
+      "impact": "Low",
+      "forecast": "0.1%",
+      "previous": "0.2%",
       "actual": "",
       "sources": [
         "forexfactory"
