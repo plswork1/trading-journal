@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:04:21.144Z",
+  "generatedAt": "2026-08-07T08:05:56.002Z",
   "events": [
     {
       "currency": "NZD",
@@ -4023,7 +4023,7 @@
     },
     {
       "currency": "GBP",
-      "time": "2026-08-07T06:00:00.000Z",
+      "time": "2026-08-07T06:03:00.000Z",
       "name": "Lloyds HPI m/m",
       "impact": "Low",
       "forecast": "0.2%",
