@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T20:30:54.821Z",
+  "generatedAt": "2026-08-10T21:31:51.686Z",
   "events": [
     {
       "currency": "NZD",
@@ -3594,7 +3594,7 @@
       "time": "2026-08-13T08:03:00.000Z",
       "name": "New Loans",
       "impact": "Low",
-      "forecast": "350B",
+      "forecast": "50B",
       "previous": "1610B",
       "actual": "",
       "sources": [
@@ -3606,7 +3606,7 @@
       "time": "2026-08-13T09:00:00.000Z",
       "name": "Industrial Production m/m",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "-0.1%",
       "previous": "-0.2%",
       "actual": "",
       "sources": [
@@ -3642,7 +3642,7 @@
       "time": "2026-08-13T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "202K",
+      "forecast": "203K",
       "previous": "199K",
       "actual": "",
       "sources": [
@@ -3834,7 +3834,7 @@
       "time": "2026-08-14T14:00:00.000Z",
       "name": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "forecast": "54.4",
+      "forecast": "54.7",
       "previous": "54.4",
       "actual": "",
       "sources": [
