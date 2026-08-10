@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T18:41:41.325Z",
+  "generatedAt": "2026-08-10T19:47:16.986Z",
   "events": [
     {
       "currency": "NZD",
@@ -3222,7 +3222,7 @@
       "time": "2026-08-10T23:01:00.000Z",
       "name": "BRC Retail Sales Monitor y/y",
       "impact": "Low",
-      "forecast": "1.5%",
+      "forecast": "1.6%",
       "previous": "1.7%",
       "actual": "",
       "sources": [
@@ -3294,7 +3294,7 @@
       "time": "2026-08-11T10:00:00.000Z",
       "name": "NFIB Small Business Index",
       "impact": "Low",
-      "forecast": "97.8",
+      "forecast": "97.5",
       "previous": "97.4",
       "actual": "",
       "sources": [
@@ -3390,7 +3390,7 @@
       "time": "2026-08-12T12:30:00.000Z",
       "name": "Building Permits m/m",
       "impact": "Low",
-      "forecast": "1.0%",
+      "forecast": "0.8%",
       "previous": "-1.7%",
       "actual": "",
       "sources": [
@@ -3450,7 +3450,7 @@
       "time": "2026-08-12T18:00:00.000Z",
       "name": "Federal Budget Balance",
       "impact": "Low",
-      "forecast": "-294.6B",
+      "forecast": "-361.2B",
       "previous": "-120.3B",
       "actual": "",
       "sources": [
@@ -3534,7 +3534,7 @@
       "time": "2026-08-13T06:00:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-20.3B",
+      "forecast": "-20.6B",
       "previous": "-18.7B",
       "actual": "",
       "sources": [
@@ -3570,7 +3570,7 @@
       "time": "2026-08-13T06:30:00.000Z",
       "name": "PPI m/m",
       "impact": "Low",
-      "forecast": "-0.1%",
+      "forecast": "-0.2%",
       "previous": "-0.3%",
       "actual": "",
       "sources": [
