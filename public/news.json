@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T14:12:48.651Z",
+  "generatedAt": "2026-08-10T15:49:33.547Z",
   "events": [
     {
       "currency": "NZD",
@@ -3183,7 +3183,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-08-10T13:48:00.000Z",
+      "time": "2026-08-10T13:45:00.000Z",
       "name": "Cleveland Fed Inflation Expectations",
       "impact": "Low",
       "forecast": "",
