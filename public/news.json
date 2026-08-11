@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T20:34:07.547Z",
+  "generatedAt": "2026-08-11T21:34:44.413Z",
   "events": [
     {
       "currency": "NZD",
@@ -3426,7 +3426,7 @@
       "time": "2026-08-12T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "-1.5M",
+      "forecast": "-1.7M",
       "previous": "2.5M",
       "actual": "",
       "sources": [
@@ -3450,7 +3450,7 @@
       "time": "2026-08-12T18:00:00.000Z",
       "name": "Federal Budget Balance",
       "impact": "Low",
-      "forecast": "-361.2B",
+      "forecast": "-348.3B",
       "previous": "-120.3B",
       "actual": "",
       "sources": [
@@ -3510,7 +3510,7 @@
       "time": "2026-08-13T06:00:00.000Z",
       "name": "GDP m/m",
       "impact": "High",
-      "forecast": "-0.1%",
+      "forecast": "0.0%",
       "previous": "0.1%",
       "actual": "",
       "sources": [
