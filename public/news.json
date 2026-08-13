@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T12:44:12.314Z",
+  "generatedAt": "2026-08-13T14:15:13.051Z",
   "events": [
     {
       "currency": "NZD",
@@ -3639,7 +3639,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-08-13T14:00:00.000Z",
+      "time": "2026-08-13T14:15:00.000Z",
       "name": "Mortgage Delinquencies",
       "impact": "Low",
       "forecast": "",
