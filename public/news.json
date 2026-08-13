@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T07:11:25.925Z",
+  "generatedAt": "2026-08-13T09:01:59.785Z",
   "events": [
     {
       "currency": "NZD",
@@ -3566,8 +3566,20 @@
       ]
     },
     {
+      "currency": "EUR",
+      "time": "2026-08-13T09:00:00.000Z",
+      "name": "Industrial Production m/m",
+      "impact": "Low",
+      "forecast": "-0.1%",
+      "previous": "-0.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "CNY",
-      "time": "2026-08-13T08:03:00.000Z",
+      "time": "2026-08-13T09:03:00.000Z",
       "name": "M2 Money Supply y/y",
       "impact": "Low",
       "forecast": "7.9%",
@@ -3579,23 +3591,11 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-08-13T08:03:00.000Z",
+      "time": "2026-08-13T09:03:00.000Z",
       "name": "New Loans",
       "impact": "Low",
       "forecast": "-50B",
       "previous": "1610B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-08-13T09:00:00.000Z",
-      "name": "Industrial Production m/m",
-      "impact": "Low",
-      "forecast": "-0.1%",
-      "previous": "-0.2%",
       "actual": "",
       "sources": [
         "forexfactory"
