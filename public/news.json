@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T09:01:59.785Z",
+  "generatedAt": "2026-08-13T10:52:26.405Z",
   "events": [
     {
       "currency": "NZD",
@@ -3578,30 +3578,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-08-13T09:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.9%",
-      "previous": "8.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-08-13T09:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "-50B",
-      "previous": "1610B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "USD",
       "time": "2026-08-13T12:15:00.000Z",
       "name": "FOMC Member Hammack Speaks",
@@ -3800,6 +3776,30 @@
       "impact": "Low",
       "forecast": "-2.2B",
       "previous": "-5.0B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-14T09:03:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "7.9%",
+      "previous": "8.0%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-14T09:03:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "-50B",
+      "previous": "1610B",
       "actual": "",
       "sources": [
         "forexfactory"
