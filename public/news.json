@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:08:17.643Z",
+  "generatedAt": "2026-08-14T08:57:24.571Z",
   "events": [
     {
       "currency": "NZD",
@@ -3746,6 +3746,30 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-08-14T08:01:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "7.9%",
+      "previous": "8.0%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-14T08:02:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "-50B",
+      "previous": "1610B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "EUR",
       "time": "2026-08-14T09:00:00.000Z",
       "name": "Flash Employment Change q/q",
@@ -3764,30 +3788,6 @@
       "impact": "Low",
       "forecast": "-2.2B",
       "previous": "-5.0B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-08-14T09:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.9%",
-      "previous": "8.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-08-14T09:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "-50B",
-      "previous": "1610B",
       "actual": "",
       "sources": [
         "forexfactory"
