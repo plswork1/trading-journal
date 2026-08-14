@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:36:37.052Z",
+  "generatedAt": "2026-08-14T12:39:53.675Z",
   "events": [
     {
       "currency": "NZD",
@@ -3836,6 +3836,18 @@
       "impact": "Low",
       "forecast": "0.2%",
       "previous": "0.3%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-14T19:00:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
