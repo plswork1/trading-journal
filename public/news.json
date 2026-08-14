@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T23:30:57.225Z",
+  "generatedAt": "2026-08-14T01:02:41.003Z",
   "events": [
     {
       "currency": "NZD",
@@ -3716,18 +3716,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": "-2.4%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "AUD",
-      "time": "2026-08-13T23:30:00.000Z",
-      "name": "RBA Gov Bullock Speaks",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
