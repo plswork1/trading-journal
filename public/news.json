@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T20:10:21.668Z",
+  "generatedAt": "2026-08-16T21:10:19.762Z",
   "events": [
     {
       "currency": "NZD",
@@ -3182,54 +3182,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-08-17T02:00:00.000Z",
-      "name": "Fixed Asset Investment ytd/y",
-      "impact": "Low",
-      "forecast": "-6.2%",
-      "previous": "-5.7%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-08-17T02:00:00.000Z",
-      "name": "Industrial Production y/y",
-      "impact": "Low",
-      "forecast": "5.0%",
-      "previous": "5.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-08-17T02:00:00.000Z",
-      "name": "NBS Press Conference",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-08-17T02:00:00.000Z",
-      "name": "Unemployment Rate",
-      "impact": "Low",
-      "forecast": "5.1%",
-      "previous": "5.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "JPY",
       "time": "2026-08-17T04:30:00.000Z",
       "name": "Revised Industrial Production m/m",
@@ -3260,6 +3212,54 @@
       "impact": "Low",
       "forecast": "",
       "previous": "-5.0%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-17T07:00:00.000Z",
+      "name": "Fixed Asset Investment ytd/y",
+      "impact": "Low",
+      "forecast": "-6.2%",
+      "previous": "-5.7%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-17T07:00:00.000Z",
+      "name": "Industrial Production y/y",
+      "impact": "Low",
+      "forecast": "5.0%",
+      "previous": "5.3%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-17T07:00:00.000Z",
+      "name": "NBS Press Conference",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-17T07:00:00.000Z",
+      "name": "Unemployment Rate",
+      "impact": "Low",
+      "forecast": "5.1%",
+      "previous": "5.0%",
       "actual": "",
       "sources": [
         "forexfactory"
