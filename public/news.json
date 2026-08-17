@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:14:20.344Z",
+  "generatedAt": "2026-08-17T21:16:02.143Z",
   "events": [
     {
       "currency": "NZD",
@@ -3954,7 +3954,7 @@
       "time": "2026-08-21T07:30:00.000Z",
       "name": "German Flash Manufacturing PMI",
       "impact": "Medium",
-      "forecast": "52.0",
+      "forecast": "52.1",
       "previous": "52.2",
       "actual": "",
       "sources": [
@@ -3990,7 +3990,7 @@
       "time": "2026-08-21T12:30:00.000Z",
       "name": "Core Retail Sales m/m",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.2%",
       "previous": "1.2%",
       "actual": "",
       "sources": [
@@ -4002,7 +4002,7 @@
       "time": "2026-08-21T13:45:00.000Z",
       "name": "Flash Manufacturing PMI",
       "impact": "Low",
-      "forecast": "54.0",
+      "forecast": "53.9",
       "previous": "53.8",
       "actual": "",
       "sources": [
