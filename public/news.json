@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T00:38:18.461Z",
+  "generatedAt": "2026-08-17T02:13:17.208Z",
   "events": [
     {
       "currency": "NZD",
@@ -3170,18 +3170,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-08-17T01:30:00.000Z",
-      "name": "New Home Prices m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-0.15%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "JPY",
       "time": "2026-08-17T04:30:00.000Z",
       "name": "Revised Industrial Production m/m",
@@ -3248,6 +3236,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-17T07:00:00.000Z",
+      "name": "New Home Prices m/m",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.15%",
       "actual": "",
       "sources": [
         "forexfactory"
