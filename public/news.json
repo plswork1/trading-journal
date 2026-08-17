@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T04:31:14.497Z",
+  "generatedAt": "2026-08-17T05:25:56.340Z",
   "events": [
     {
       "currency": "NZD",
@@ -3195,18 +3195,6 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-08-17T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
       "time": "2026-08-17T07:00:00.000Z",
       "name": "Fixed Asset Investment ytd/y",
       "impact": "Low",
@@ -3380,6 +3368,18 @@
       "impact": "Low",
       "forecast": "4.8%",
       "previous": "4.9%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-18T06:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.0%",
       "actual": "",
       "sources": [
         "forexfactory"
