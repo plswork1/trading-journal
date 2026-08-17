@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:20:05.426Z",
+  "generatedAt": "2026-08-17T20:14:20.344Z",
   "events": [
     {
       "currency": "NZD",
@@ -3342,7 +3342,7 @@
       "time": "2026-08-18T06:00:00.000Z",
       "name": "Claimant Count Change",
       "impact": "High",
-      "forecast": "11.2K",
+      "forecast": "16.5K",
       "previous": "6.7K",
       "actual": "",
       "sources": [
@@ -3390,7 +3390,7 @@
       "time": "2026-08-18T09:00:00.000Z",
       "name": "ZEW Economic Sentiment",
       "impact": "Low",
-      "forecast": "25.4",
+      "forecast": "25.9",
       "previous": "23.4",
       "actual": "",
       "sources": [
@@ -3450,7 +3450,7 @@
       "time": "2026-08-18T12:30:00.000Z",
       "name": "Housing Starts",
       "impact": "Low",
-      "forecast": "1.35M",
+      "forecast": "1.34M",
       "previous": "1.43M",
       "actual": "",
       "sources": [
@@ -3534,7 +3534,7 @@
       "time": "2026-08-18T22:45:00.000Z",
       "name": "PPI Input q/q",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "1.3%",
       "previous": "1.4%",
       "actual": "",
       "sources": [
@@ -3546,7 +3546,7 @@
       "time": "2026-08-18T23:50:00.000Z",
       "name": "Core Machinery Orders m/m",
       "impact": "Low",
-      "forecast": "7.6%",
+      "forecast": "7.2%",
       "previous": "-12.4%",
       "actual": "",
       "sources": [
@@ -3594,7 +3594,7 @@
       "time": "2026-08-19T06:00:00.000Z",
       "name": "PPI Input m/m",
       "impact": "Low",
-      "forecast": "-0.5%",
+      "forecast": "0.0%",
       "previous": "-2.0%",
       "actual": "",
       "sources": [
@@ -3618,7 +3618,7 @@
       "time": "2026-08-19T08:00:00.000Z",
       "name": "Current Account",
       "impact": "Low",
-      "forecast": "22.1B",
+      "forecast": "26.8B",
       "previous": "25.1B",
       "actual": "",
       "sources": [
@@ -3630,7 +3630,7 @@
       "time": "2026-08-19T08:30:00.000Z",
       "name": "HPI y/y",
       "impact": "Low",
-      "forecast": "2.5%",
+      "forecast": "1.9%",
       "previous": "2.7%",
       "actual": "",
       "sources": [
@@ -3726,7 +3726,7 @@
       "time": "2026-08-20T01:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "11.4K",
+      "forecast": "11.7K",
       "previous": "76.3K",
       "actual": "",
       "sources": [
@@ -3758,18 +3758,6 @@
       ]
     },
     {
-      "currency": "GBP",
-      "time": "2026-08-20T10:00:00.000Z",
-      "name": "CBI Industrial Order Expectations",
-      "impact": "Low",
-      "forecast": "-40",
-      "previous": "-45",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-08-20T10:00:00.000Z",
       "name": "German Buba Monthly Report",
@@ -3782,11 +3770,23 @@
       ]
     },
     {
+      "currency": "GBP",
+      "time": "2026-08-20T10:00:00.000Z",
+      "name": "CBI Industrial Order Expectations",
+      "impact": "Low",
+      "forecast": "-40",
+      "previous": "-45",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "CAD",
       "time": "2026-08-20T12:30:00.000Z",
       "name": "IPPI m/m",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.4%",
       "previous": "-1.4%",
       "actual": "",
       "sources": [
@@ -3798,7 +3798,7 @@
       "time": "2026-08-20T12:30:00.000Z",
       "name": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "forecast": "24.3",
+      "forecast": "24.1",
       "previous": "41.4",
       "actual": "",
       "sources": [
@@ -3846,7 +3846,7 @@
       "time": "2026-08-20T22:45:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "320M",
+      "forecast": "-175M",
       "previous": "23M",
       "actual": "",
       "sources": [
@@ -3870,7 +3870,7 @@
       "time": "2026-08-20T23:01:00.000Z",
       "name": "GfK Consumer Confidence",
       "impact": "Low",
-      "forecast": "-17",
+      "forecast": "-18",
       "previous": "-17",
       "actual": "",
       "sources": [
@@ -3918,7 +3918,7 @@
       "time": "2026-08-21T06:00:00.000Z",
       "name": "Retail Sales m/m",
       "impact": "Medium",
-      "forecast": "-0.4%",
+      "forecast": "-0.5%",
       "previous": "1.0%",
       "actual": "",
       "sources": [
@@ -3930,7 +3930,7 @@
       "time": "2026-08-21T06:00:00.000Z",
       "name": "Public Sector Net Borrowing",
       "impact": "Low",
-      "forecast": "-0.1B",
+      "forecast": "0.0B",
       "previous": "16.0B",
       "actual": "",
       "sources": [
