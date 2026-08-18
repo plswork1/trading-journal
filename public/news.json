@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T17:17:57.636Z",
+  "generatedAt": "2026-08-18T18:21:46.688Z",
   "events": [
     {
       "currency": "NZD",
@@ -3644,6 +3644,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "3.13|1.1",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-08-19T10:15:00.000Z",
+      "name": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
