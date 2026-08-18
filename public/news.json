@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:20:59.290Z",
+  "generatedAt": "2026-08-18T16:19:01.207Z",
   "events": [
     {
       "currency": "NZD",
@@ -3495,7 +3495,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-08-18T14:51:00.000Z",
+      "time": "2026-08-18T15:31:00.000Z",
       "name": "GDT Price Index",
       "impact": "Low",
       "forecast": "",
