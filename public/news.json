@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T02:11:38.709Z",
+  "generatedAt": "2026-08-19T03:37:23.056Z",
   "events": [
     {
       "currency": "NZD",
@@ -3678,6 +3678,18 @@
       "time": "2026-08-19T18:00:00.000Z",
       "name": "FOMC Meeting Minutes",
       "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-19T18:30:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
