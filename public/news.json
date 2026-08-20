@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:23:37.063Z",
+  "generatedAt": "2026-08-20T16:21:49.512Z",
   "events": [
     {
       "currency": "NZD",
@@ -3848,6 +3848,18 @@
       "impact": "Low",
       "forecast": "15B",
       "previous": "36B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-20T15:10:00.000Z",
+      "name": "FOMC Member Musalem Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
