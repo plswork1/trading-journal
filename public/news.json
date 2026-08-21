@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T13:37:05.851Z",
+  "generatedAt": "2026-08-21T14:24:05.927Z",
   "events": [
     {
       "currency": "NZD",
@@ -4004,6 +4004,18 @@
       "impact": "Medium",
       "forecast": "51.6",
       "previous": "52.8",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-08-21T09:03:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.0%",
       "actual": "",
       "sources": [
         "forexfactory"
