@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:29:29.845Z",
+  "generatedAt": "2026-08-24T16:23:18.036Z",
   "events": [
     {
       "currency": "NZD",
@@ -3147,7 +3147,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-08-24T18:00:00.000Z",
+      "time": "2026-08-24T17:00:00.000Z",
       "name": "Treasury Sec Bessent Speaks",
       "impact": "Medium",
       "forecast": "",
@@ -3198,7 +3198,7 @@
       "time": "2026-08-25T08:00:00.000Z",
       "name": "German ifo Business Climate",
       "impact": "Low",
-      "forecast": "87.3",
+      "forecast": "87.2",
       "previous": "86.6",
       "actual": "",
       "sources": [
@@ -3212,6 +3212,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "9.5K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-25T12:30:00.000Z",
+      "name": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3246,7 +3258,7 @@
       "time": "2026-08-25T13:00:00.000Z",
       "name": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "forecast": "1.9%",
+      "forecast": "1.8%",
       "previous": "1.6%",
       "actual": "",
       "sources": [
@@ -3282,8 +3294,20 @@
       "time": "2026-08-25T14:00:00.000Z",
       "name": "Richmond Manufacturing Index",
       "impact": "Low",
-      "forecast": "7",
+      "forecast": "6",
       "previous": "5",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-25T20:00:00.000Z",
+      "name": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3428,6 +3452,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "4.4M",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-08-26T15:45:00.000Z",
+      "name": "FOMC Member Barkin Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
