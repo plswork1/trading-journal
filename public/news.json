@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:24:09.975Z",
+  "generatedAt": "2026-08-25T17:22:35.564Z",
   "events": [
     {
       "currency": "NZD",
@@ -3450,7 +3450,7 @@
       "time": "2026-08-26T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "1.9M",
+      "forecast": "1.6M",
       "previous": "4.4M",
       "actual": "",
       "sources": [
@@ -3618,7 +3618,7 @@
       "time": "2026-08-27T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "19B",
       "previous": "16B",
       "actual": "",
       "sources": [
@@ -3739,7 +3739,7 @@
       "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "4.00|1.7",
       "actual": "",
       "sources": [
         "forexfactory"
