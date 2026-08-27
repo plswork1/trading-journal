@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:18:45.285Z",
+  "generatedAt": "2026-08-27T23:20:50.552Z",
   "events": [
     {
       "currency": "NZD",
@@ -3759,6 +3759,18 @@
     },
     {
       "currency": "USD",
+      "time": "2026-08-28T13:00:00.000Z",
+      "name": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
       "time": "2026-08-28T13:45:00.000Z",
       "name": "Chicago PMI",
       "impact": "Low",
@@ -3810,6 +3822,18 @@
       "time": "2026-08-28T16:15:00.000Z",
       "name": "Jackson Hole Symposium",
       "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "All",
+      "time": "2026-08-29T15:15:00.000Z",
+      "name": "G20 Meetings",
+      "impact": "Low",
       "forecast": "",
       "previous": "",
       "actual": "",
