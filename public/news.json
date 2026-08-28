@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T23:20:50.552Z",
+  "generatedAt": "2026-08-28T07:50:08.016Z",
   "events": [
     {
       "currency": "NZD",
@@ -3812,6 +3812,18 @@
       "impact": "Medium",
       "forecast": "51.0",
       "previous": "51.0",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-08-28T14:30:00.000Z",
+      "name": "MPC Member Mann Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
