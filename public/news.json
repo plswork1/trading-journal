@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T09:02:31.568Z",
+  "generatedAt": "2026-08-31T17:17:51.756Z",
   "events": [
     {
       "currency": "NZD",
@@ -3330,7 +3330,7 @@
       "time": "2026-09-01T01:45:00.000Z",
       "name": "RatingDog Manufacturing PMI",
       "impact": "Low",
-      "forecast": "51.5",
+      "forecast": "51.1",
       "previous": "50.9",
       "actual": "",
       "sources": [
@@ -4302,7 +4302,7 @@
       "time": "2026-09-04T12:30:00.000Z",
       "name": "Non-Farm Employment Change",
       "impact": "High",
-      "forecast": "58K",
+      "forecast": "55K",
       "previous": "-23K",
       "actual": "",
       "sources": [
