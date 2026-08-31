@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T23:00:31.308Z",
+  "generatedAt": "2026-08-31T02:15:49.026Z",
   "events": [
     {
       "currency": "NZD",
@@ -4039,7 +4039,7 @@
       "name": "Spanish 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "3.54|2.4",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4051,7 +4051,7 @@
       "name": "French 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "3.86|3.7",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4172,6 +4172,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "15B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-03T19:00:00.000Z",
+      "name": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
