@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:03:12.686Z",
+  "generatedAt": "2026-09-01T20:17:24.499Z",
   "events": [
     {
       "currency": "NZD",
@@ -3798,7 +3798,7 @@
       "time": "2026-09-02T12:15:00.000Z",
       "name": "ADP Non-Farm Employment Change",
       "impact": "Medium",
-      "forecast": "48K",
+      "forecast": "47K",
       "previous": "44K",
       "actual": "",
       "sources": [
@@ -3846,7 +3846,7 @@
       "time": "2026-09-02T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "0.0M",
+      "forecast": "-0.4M",
       "previous": "0.1M",
       "actual": "",
       "sources": [
@@ -4182,7 +4182,7 @@
       "time": "2026-09-03T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "30B",
       "previous": "15B",
       "actual": "",
       "sources": [
