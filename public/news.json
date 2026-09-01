@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T01:30:26.210Z",
+  "generatedAt": "2026-09-01T06:57:41.678Z",
   "events": [
     {
       "currency": "NZD",
@@ -3367,7 +3367,7 @@
       "name": "German Retail Sales m/m",
       "impact": "Low",
       "forecast": "0.4%",
-      "previous": "-1.1%",
+      "previous": "-0.7%",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3399,7 +3399,7 @@
     },
     {
       "currency": "CHF",
-      "time": "2026-09-01T06:30:00.000Z",
+      "time": "2026-09-01T06:33:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
       "forecast": "1.6%",
@@ -3858,6 +3858,18 @@
       "time": "2026-09-02T18:00:00.000Z",
       "name": "Beige Book",
       "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "NZD",
+      "time": "2026-09-02T20:10:00.000Z",
+      "name": "RBNZ Gov Breman Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
