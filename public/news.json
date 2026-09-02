@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T14:48:08.445Z",
+  "generatedAt": "2026-09-02T18:13:21.030Z",
   "events": [
     {
       "currency": "NZD",
@@ -3882,7 +3882,7 @@
       "time": "2026-09-02T22:45:00.000Z",
       "name": "Overseas Trade Index q/q",
       "impact": "Low",
-      "forecast": "-2.2%",
+      "forecast": "-2.1%",
       "previous": "-2.0%",
       "actual": "",
       "sources": [
@@ -3918,7 +3918,7 @@
       "time": "2026-09-03T01:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "1.50B",
+      "forecast": "1.52B",
       "previous": "1.93B",
       "actual": "",
       "sources": [
@@ -3978,7 +3978,7 @@
       "time": "2026-09-03T07:00:00.000Z",
       "name": "GDP q/q",
       "impact": "Low",
-      "forecast": "1.5%",
+      "forecast": "1.7%",
       "previous": "0.7%",
       "actual": "",
       "sources": [
