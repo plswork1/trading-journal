@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T12:20:27.098Z",
+  "generatedAt": "2026-09-03T16:44:36.956Z",
   "events": [
     {
       "currency": "NZD",
@@ -4184,6 +4184,18 @@
       "impact": "Low",
       "forecast": "30B",
       "previous": "15B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-03T15:00:00.000Z",
+      "name": "MPC Member Pill Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
