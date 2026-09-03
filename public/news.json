@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:28:45.588Z",
+  "generatedAt": "2026-09-03T12:20:27.098Z",
   "events": [
     {
       "currency": "NZD",
@@ -4035,19 +4035,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-03T09:00:00.000Z",
-      "name": "PPI m/m",
-      "impact": "Low",
-      "forecast": "1.2%",
-      "previous": "-0.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-03T09:03:00.000Z",
+      "time": "2026-09-03T08:43:00.000Z",
       "name": "Spanish 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -4059,11 +4047,23 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-03T09:18:00.000Z",
+      "time": "2026-09-03T08:57:00.000Z",
       "name": "French 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
       "previous": "3.86|3.7",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-03T09:00:00.000Z",
+      "name": "PPI m/m",
+      "impact": "Low",
+      "forecast": "1.2%",
+      "previous": "-0.3%",
       "actual": "",
       "sources": [
         "forexfactory"
