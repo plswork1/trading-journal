@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T11:57:48.623Z",
+  "generatedAt": "2026-09-04T15:24:31.543Z",
   "events": [
     {
       "currency": "NZD",
@@ -4364,6 +4364,18 @@
       "impact": "Medium",
       "forecast": "56.2",
       "previous": "55.1",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-04T22:00:00.000Z",
+      "name": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
