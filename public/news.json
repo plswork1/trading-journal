@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:29:05.448Z",
+  "generatedAt": "2026-09-07T05:26:40.271Z",
   "events": [
     {
       "currency": "NZD",
@@ -3422,6 +3422,18 @@
       ]
     },
     {
+      "currency": "GBP",
+      "time": "2026-09-08T13:15:00.000Z",
+      "name": "Monetary Policy Report Hearings",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "USD",
       "time": "2026-09-08T19:00:00.000Z",
       "name": "Consumer Credit m/m",
@@ -3450,7 +3462,7 @@
       "time": "2026-09-09T01:30:00.000Z",
       "name": "CPI y/y",
       "impact": "Low",
-      "forecast": "0.9%",
+      "forecast": "0.8%",
       "previous": "0.5%",
       "actual": "",
       "sources": [
@@ -3508,8 +3520,8 @@
     {
       "currency": "EUR",
       "time": "2026-09-09T17:00:00.000Z",
-      "name": "German Buba President Nagel Speaks",
-      "impact": "Low",
+      "name": "ECB President Lagarde Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -3848,6 +3860,18 @@
       "impact": "High",
       "forecast": "3.4%",
       "previous": "3.4%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-11T14:00:00.000Z",
+      "name": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
