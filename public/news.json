@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T07:02:07.681Z",
+  "generatedAt": "2026-09-08T12:22:34.391Z",
   "events": [
     {
       "currency": "NZD",
@@ -3520,8 +3520,8 @@
     {
       "currency": "EUR",
       "time": "2026-09-09T17:00:00.000Z",
-      "name": "ECB President Lagarde Speaks",
-      "impact": "Medium",
+      "name": "German Buba President Nagel Speaks",
+      "impact": "Low",
       "forecast": "",
       "previous": "",
       "actual": "",
