@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T02:00:06.223Z",
+  "generatedAt": "2026-09-08T07:02:07.681Z",
   "events": [
     {
       "currency": "NZD",
@@ -3339,7 +3339,7 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-09-08T02:03:00.000Z",
+      "time": "2026-09-08T02:35:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
       "forecast": "805B",
