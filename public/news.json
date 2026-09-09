@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:08:59.934Z",
+  "generatedAt": "2026-09-09T00:50:45.771Z",
   "events": [
     {
       "currency": "NZD",
@@ -3903,7 +3903,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-12T07:30:00.000Z",
+      "time": "2026-09-12T08:00:00.000Z",
       "name": "ECB President Lagarde Speaks",
       "impact": "Medium",
       "forecast": "",
