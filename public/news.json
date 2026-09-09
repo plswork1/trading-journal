@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T10:21:32.095Z",
+  "generatedAt": "2026-09-09T14:53:53.054Z",
   "events": [
     {
       "currency": "NZD",
@@ -3495,7 +3495,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-09T09:42:00.000Z",
+      "time": "2026-09-09T09:33:00.000Z",
       "name": "German 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -3507,7 +3507,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-09T12:15:00.000Z",
+      "time": "2026-09-09T12:14:00.000Z",
       "name": "ADP Weekly Employment Change",
       "impact": "Low",
       "forecast": "",
@@ -3572,6 +3572,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "4.9%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-10T01:15:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
