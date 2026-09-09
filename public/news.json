@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T14:53:53.054Z",
+  "generatedAt": "2026-09-09T18:09:38.898Z",
   "events": [
     {
       "currency": "NZD",
@@ -3702,7 +3702,7 @@
       "time": "2026-09-10T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "35B",
       "previous": "30B",
       "actual": "",
       "sources": [
@@ -3714,7 +3714,7 @@
       "time": "2026-09-10T16:00:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.4M",
       "previous": "-4.5M",
       "actual": "",
       "sources": [
