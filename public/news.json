@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T17:59:13.105Z",
+  "generatedAt": "2026-09-11T20:34:42.717Z",
   "events": [
     {
       "currency": "NZD",
@@ -3903,7 +3903,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-11T18:00:00.000Z",
+      "time": "2026-09-11T17:58:00.000Z",
       "name": "Federal Budget Balance",
       "impact": "Low",
       "forecast": "-221.1B",
