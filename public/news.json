@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T19:05:23.238Z",
+  "generatedAt": "2026-09-13T21:55:54.364Z",
   "events": [
     {
       "currency": "NZD",
@@ -3254,6 +3254,18 @@
       ]
     },
     {
+      "currency": "EUR",
+      "time": "2026-09-14T15:15:00.000Z",
+      "name": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "CNY",
       "time": "2026-09-15T01:30:00.000Z",
       "name": "New Home Prices m/m",
@@ -3702,7 +3714,7 @@
       "time": "2026-09-16T18:00:00.000Z",
       "name": "Federal Funds Rate",
       "impact": "High",
-      "forecast": "3.75%",
+      "forecast": "4.00%",
       "previous": "3.75%",
       "actual": "",
       "sources": [
@@ -4058,6 +4070,30 @@
       ]
     },
     {
+      "currency": "EUR",
+      "time": "2026-09-18T10:15:00.000Z",
+      "name": "Eurogroup Meetings",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-18T10:30:00.000Z",
+      "name": "ECB President Lagarde Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "USD",
       "time": "2026-09-18T13:15:00.000Z",
       "name": "Capacity Utilization Rate",
@@ -4100,6 +4136,18 @@
       "impact": "Low",
       "forecast": "0.2%",
       "previous": "0.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-19T10:15:00.000Z",
+      "name": "ECOFIN Meetings",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
