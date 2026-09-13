@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:55:54.364Z",
+  "generatedAt": "2026-09-13T23:46:23.543Z",
   "events": [
     {
       "currency": "NZD",
@@ -4136,6 +4136,18 @@
       "impact": "Low",
       "forecast": "0.2%",
       "previous": "0.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-18T15:45:00.000Z",
+      "name": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
