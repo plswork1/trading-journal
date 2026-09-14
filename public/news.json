@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T15:24:19.838Z",
+  "generatedAt": "2026-09-14T20:01:34.047Z",
   "events": [
     {
       "currency": "NZD",
@@ -3282,7 +3282,7 @@
       "time": "2026-09-15T02:00:00.000Z",
       "name": "Fixed Asset Investment ytd/y",
       "impact": "Low",
-      "forecast": "-7.0%",
+      "forecast": "-7.1%",
       "previous": "-6.7%",
       "actual": "",
       "sources": [
@@ -3378,7 +3378,7 @@
       "time": "2026-09-15T06:00:00.000Z",
       "name": "Unemployment Rate",
       "impact": "Low",
-      "forecast": "4.9%",
+      "forecast": "5.0%",
       "previous": "4.9%",
       "actual": "",
       "sources": [
@@ -3438,7 +3438,7 @@
       "time": "2026-09-15T09:00:00.000Z",
       "name": "German ZEW Economic Sentiment",
       "impact": "Low",
-      "forecast": "42.7",
+      "forecast": "39.8",
       "previous": "34.2",
       "actual": "",
       "sources": [
@@ -3692,6 +3692,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "-0.4M",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-16T16:00:00.000Z",
+      "name": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
