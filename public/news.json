@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T08:08:21.869Z",
+  "generatedAt": "2026-09-15T17:54:51.956Z",
   "events": [
     {
       "currency": "NZD",
@@ -3470,8 +3470,20 @@
       ]
     },
     {
+      "currency": "USD",
+      "time": "2026-09-15T14:00:00.000Z",
+      "name": "Treasury Sec Bessent Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "NZD",
-      "time": "2026-09-15T14:50:00.000Z",
+      "time": "2026-09-15T15:39:00.000Z",
       "name": "GDT Price Index",
       "impact": "Low",
       "forecast": "",
@@ -3630,7 +3642,7 @@
       "time": "2026-09-16T12:30:00.000Z",
       "name": "Building Permits m/m",
       "impact": "Low",
-      "forecast": "-4.5%",
+      "forecast": "-4.7%",
       "previous": "18.5%",
       "actual": "",
       "sources": [
