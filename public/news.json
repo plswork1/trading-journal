@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T02:23:59.254Z",
+  "generatedAt": "2026-09-15T08:08:21.869Z",
   "events": [
     {
       "currency": "NZD",
@@ -3386,18 +3386,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-09-15T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-6.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-09-15T06:45:00.000Z",
       "name": "French Final CPI m/m",
@@ -3776,6 +3764,18 @@
       "impact": "High",
       "forecast": "0.1%",
       "previous": "0.8%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-09-17T06:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-6.2%",
       "actual": "",
       "sources": [
         "forexfactory"
