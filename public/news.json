@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T20:37:43.971Z",
+  "generatedAt": "2026-09-15T23:17:50.341Z",
   "events": [
     {
       "currency": "NZD",
@@ -3507,7 +3507,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-09-15T21:00:00.000Z",
+      "time": "2026-09-15T21:04:00.000Z",
       "name": "Westpac Consumer Sentiment",
       "impact": "Low",
       "forecast": "",
