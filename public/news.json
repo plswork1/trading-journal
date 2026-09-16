@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:17:50.341Z",
+  "generatedAt": "2026-09-16T02:17:22.536Z",
   "events": [
     {
       "currency": "NZD",
@@ -3654,7 +3654,7 @@
       "time": "2026-09-16T12:30:00.000Z",
       "name": "Core Retail Sales m/m",
       "impact": "Medium",
-      "forecast": "0.5%",
+      "forecast": "0.6%",
       "previous": "-0.3%",
       "actual": "",
       "sources": [
@@ -3690,7 +3690,7 @@
       "time": "2026-09-16T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.6M",
       "previous": "-0.4M",
       "actual": "",
       "sources": [
@@ -3894,7 +3894,7 @@
       "time": "2026-09-17T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "208K",
+      "forecast": "207K",
       "previous": "206K",
       "actual": "",
       "sources": [
@@ -3918,7 +3918,7 @@
       "time": "2026-09-17T12:30:00.000Z",
       "name": "Housing Starts",
       "impact": "Low",
-      "forecast": "1.31M",
+      "forecast": "1.32M",
       "previous": "1.24M",
       "actual": "",
       "sources": [
@@ -3954,7 +3954,7 @@
       "time": "2026-09-17T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "49B",
       "previous": "40B",
       "actual": "",
       "sources": [
@@ -4096,7 +4096,7 @@
     {
       "currency": "EUR",
       "time": "2026-09-18T10:15:00.000Z",
-      "name": "Eurogroup Meetings",
+      "name": "ECOFIN Meetings",
       "impact": "Low",
       "forecast": "",
       "previous": "",
