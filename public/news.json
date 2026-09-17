@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T08:08:32.697Z",
+  "generatedAt": "2026-09-17T13:55:31.108Z",
   "events": [
     {
       "currency": "NZD",
@@ -3795,11 +3795,11 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-17T09:00:00.000Z",
-      "name": "Final Core CPI y/y",
+      "time": "2026-09-17T08:37:00.000Z",
+      "name": "Spanish 10-y Bond Auction",
       "impact": "Low",
-      "forecast": "2.4%",
-      "previous": "2.4%",
+      "forecast": "",
+      "previous": "3.74|2.3",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3807,11 +3807,11 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-17T09:03:00.000Z",
-      "name": "Spanish 10-y Bond Auction",
+      "time": "2026-09-17T09:00:00.000Z",
+      "name": "Final Core CPI y/y",
       "impact": "Low",
-      "forecast": "",
-      "previous": "3.74|2.3",
+      "forecast": "2.4%",
+      "previous": "2.4%",
       "actual": "",
       "sources": [
         "forexfactory"
