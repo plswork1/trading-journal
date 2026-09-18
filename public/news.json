@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T23:14:35.527Z",
+  "generatedAt": "2026-09-18T02:07:03.871Z",
   "events": [
     {
       "currency": "NZD",
@@ -3974,18 +3974,6 @@
       ]
     },
     {
-      "currency": "GBP",
-      "time": "2026-09-17T23:01:00.000Z",
-      "name": "GfK Consumer Confidence",
-      "impact": "Low",
-      "forecast": "-16",
-      "previous": "-14",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "AUD",
       "time": "2026-09-17T23:30:00.000Z",
       "name": "RBA Gov Bullock Speaks",
@@ -4011,7 +3999,7 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-09-18T02:30:00.000Z",
+      "time": "2026-09-18T03:00:00.000Z",
       "name": "BOJ Policy Rate",
       "impact": "High",
       "forecast": "<1.25%",
@@ -4023,7 +4011,7 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-09-18T02:30:00.000Z",
+      "time": "2026-09-18T03:00:00.000Z",
       "name": "Monetary Policy Statement",
       "impact": "High",
       "forecast": "",
