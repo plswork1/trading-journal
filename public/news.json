@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T02:07:03.871Z",
+  "generatedAt": "2026-09-18T07:43:32.725Z",
   "events": [
     {
       "currency": "NZD",
@@ -3999,7 +3999,7 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-09-18T03:00:00.000Z",
+      "time": "2026-09-18T02:54:00.000Z",
       "name": "BOJ Policy Rate",
       "impact": "High",
       "forecast": "<1.25%",
@@ -4011,20 +4011,8 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-09-18T03:00:00.000Z",
+      "time": "2026-09-18T02:54:00.000Z",
       "name": "Monetary Policy Statement",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-18T05:30:00.000Z",
-      "name": "BOJ Press Conference",
       "impact": "High",
       "forecast": "",
       "previous": "",
@@ -4058,12 +4046,12 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-09-18T06:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
+      "currency": "JPY",
+      "time": "2026-09-18T06:30:00.000Z",
+      "name": "BOJ Press Conference",
+      "impact": "High",
       "forecast": "",
-      "previous": "-6.2%",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
