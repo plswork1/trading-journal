@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T02:18:05.249Z",
+  "generatedAt": "2026-09-20T08:02:17.179Z",
   "events": [
     {
       "currency": "NZD",
@@ -3122,9 +3122,45 @@
       ]
     },
     {
-      "currency": "All",
-      "time": "2026-09-13T08:15:00.000Z",
-      "name": "BRICS Summit",
+      "currency": "JPY",
+      "time": "2026-09-20T23:00:00.000Z",
+      "name": "Bank Holiday",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-20T23:01:00.000Z",
+      "name": "Rightmove HPI m/m",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-2.0%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "NZD",
+      "time": "2026-09-21T03:00:00.000Z",
+      "name": "Credit Card Spending y/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "5.3%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-21T10:00:00.000Z",
+      "name": "German Buba Monthly Report",
       "impact": "Low",
       "forecast": "",
       "previous": "",
@@ -3134,24 +3170,36 @@
       ]
     },
     {
-      "currency": "NZD",
-      "time": "2026-09-13T22:30:00.000Z",
-      "name": "BusinessNZ Services Index",
+      "currency": "USD",
+      "time": "2026-09-21T10:30:00.000Z",
+      "name": "FOMC Member Goolsbee Speaks",
       "impact": "Low",
       "forecast": "",
-      "previous": "50.6",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
       ]
     },
     {
-      "currency": "NZD",
-      "time": "2026-09-13T22:45:00.000Z",
-      "name": "Visitor Arrivals m/m",
-      "impact": "Low",
+      "currency": "EUR",
+      "time": "2026-09-21T15:00:00.000Z",
+      "name": "ECB President Lagarde Speaks",
+      "impact": "Medium",
       "forecast": "",
-      "previous": "-0.1%",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CAD",
+      "time": "2026-09-21T15:05:00.000Z",
+      "name": "BOC Gov Macklem Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3159,7 +3207,7 @@
     },
     {
       "currency": "AUD",
-      "time": "2026-09-14T02:30:00.000Z",
+      "time": "2026-09-21T19:00:00.000Z",
       "name": "RBA Assist Gov Hunter Speaks",
       "impact": "Low",
       "forecast": "",
@@ -3171,93 +3219,9 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-09-14T04:30:00.000Z",
-      "name": "Revised Industrial Production m/m",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.1%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CHF",
-      "time": "2026-09-14T06:30:00.000Z",
-      "name": "PPI m/m",
-      "impact": "Low",
-      "forecast": "0.0%",
-      "previous": "-0.1%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-09-14T09:01:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.6%",
-      "previous": "7.7%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-09-14T09:01:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "480B",
-      "previous": "-340B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-14T12:30:00.000Z",
-      "name": "CPI m/m",
-      "impact": "High",
-      "forecast": "-0.1%",
-      "previous": "0.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-14T12:30:00.000Z",
-      "name": "Median CPI y/y",
-      "impact": "High",
-      "forecast": "2.0%",
-      "previous": "2.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-14T13:30:00.000Z",
-      "name": "CB Leading Index m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-0.4%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-14T15:15:00.000Z",
-      "name": "ECB President Lagarde Speaks",
-      "impact": "Medium",
+      "time": "2026-09-21T23:00:00.000Z",
+      "name": "Bank Holiday",
+      "impact": "Holiday",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -3266,46 +3230,10 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-09-15T01:30:00.000Z",
-      "name": "New Home Prices m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-0.18%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-09-15T02:00:00.000Z",
-      "name": "Fixed Asset Investment ytd/y",
-      "impact": "Low",
-      "forecast": "-7.1%",
-      "previous": "-6.7%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-09-15T02:00:00.000Z",
-      "name": "Industrial Production y/y",
-      "impact": "Low",
-      "forecast": "4.8%",
-      "previous": "4.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-09-15T02:00:00.000Z",
-      "name": "NBS Press Conference",
-      "impact": "Low",
+      "currency": "AUD",
+      "time": "2026-09-22T03:10:00.000Z",
+      "name": "RBA Gov Bullock Speaks",
+      "impact": "High",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -3314,107 +3242,11 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-09-15T02:00:00.000Z",
-      "name": "Unemployment Rate",
-      "impact": "Low",
-      "forecast": "5.2%",
-      "previous": "5.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-15T04:30:00.000Z",
-      "name": "Tertiary Industry Activity m/m",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "-0.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-15T06:00:00.000Z",
-      "name": "German WPI m/m",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "GBP",
-      "time": "2026-09-15T06:00:00.000Z",
-      "name": "Claimant Count Change",
-      "impact": "High",
-      "forecast": "8.3K",
-      "previous": "-11.0K",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-15T06:00:00.000Z",
-      "name": "Average Earnings Index 3m/y",
-      "impact": "Medium",
-      "forecast": "3.9%",
-      "previous": "4.1%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-15T06:00:00.000Z",
-      "name": "Unemployment Rate",
+      "time": "2026-09-22T06:00:00.000Z",
+      "name": "Public Sector Net Borrowing",
       "impact": "Low",
-      "forecast": "5.0%",
-      "previous": "4.9%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-15T06:45:00.000Z",
-      "name": "French Final CPI m/m",
-      "impact": "Low",
-      "forecast": "0.7%",
-      "previous": "0.7%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-15T08:00:00.000Z",
-      "name": "Italian Trade Balance",
-      "impact": "Low",
-      "forecast": "4.77B",
-      "previous": "4.23B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-15T09:00:00.000Z",
-      "name": "Trade Balance",
-      "impact": "Low",
-      "forecast": "3.7B",
+      "forecast": "15.4B",
       "previous": "1.8B",
       "actual": "",
       "sources": [
@@ -3423,283 +3255,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-15T09:00:00.000Z",
-      "name": "German ZEW Economic Sentiment",
-      "impact": "Low",
-      "forecast": "39.8",
-      "previous": "34.2",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-15T12:15:00.000Z",
-      "name": "ADP Weekly Employment Change",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "12.0K",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-15T12:30:00.000Z",
-      "name": "Wholesale Sales m/m",
-      "impact": "Low",
-      "forecast": "-0.5%",
-      "previous": "2.8%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-15T12:30:00.000Z",
-      "name": "Empire State Manufacturing Index",
-      "impact": "Low",
-      "forecast": "14.8",
-      "previous": "20.6",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-15T14:00:00.000Z",
-      "name": "Treasury Sec Bessent Speaks",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-09-15T15:39:00.000Z",
-      "name": "GDT Price Index",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.9%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-15T20:30:00.000Z",
-      "name": "API Weekly Statistical Bulletin",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-09-15T21:04:00.000Z",
-      "name": "Westpac Consumer Sentiment",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "80.4",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-09-15T22:45:00.000Z",
-      "name": "Current Account",
-      "impact": "Low",
-      "forecast": "-2.57B",
-      "previous": "-1.01B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-15T23:50:00.000Z",
-      "name": "Core Machinery Orders m/m",
-      "impact": "Low",
-      "forecast": "-1.2%",
-      "previous": "9.7%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-15T23:50:00.000Z",
-      "name": "Trade Balance",
-      "impact": "Low",
-      "forecast": "-1.00T",
-      "previous": "-0.69T",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "AUD",
-      "time": "2026-09-16T00:30:00.000Z",
-      "name": "MI Leading Index m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-16T06:00:00.000Z",
-      "name": "CPI y/y",
-      "impact": "High",
-      "forecast": "3.1%",
-      "previous": "2.9%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-16T06:00:00.000Z",
-      "name": "PPI Input m/m",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "-1.7%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-16T08:30:00.000Z",
-      "name": "HPI y/y",
-      "impact": "Low",
-      "forecast": "2.1%",
-      "previous": "2.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-16T09:00:00.000Z",
-      "name": "Industrial Production m/m",
-      "impact": "Low",
-      "forecast": "-0.2%",
-      "previous": "0.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-16T09:35:00.000Z",
-      "name": "German 30-y Bond Auction",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.65|1.3",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-16T12:15:00.000Z",
-      "name": "Housing Starts",
-      "impact": "Low",
-      "forecast": "243K",
-      "previous": "229K",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-16T12:30:00.000Z",
-      "name": "Building Permits m/m",
-      "impact": "Low",
-      "forecast": "-4.7%",
-      "previous": "18.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T12:30:00.000Z",
-      "name": "Core Retail Sales m/m",
-      "impact": "Medium",
-      "forecast": "0.6%",
-      "previous": "-0.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T14:00:00.000Z",
-      "name": "Business Inventories m/m",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.0%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T14:00:00.000Z",
-      "name": "NAHB Housing Market Index",
-      "impact": "Low",
-      "forecast": "34",
-      "previous": "35",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T14:30:00.000Z",
-      "name": "Crude Oil Inventories",
-      "impact": "Low",
-      "forecast": "-1.6M",
-      "previous": "-0.4M",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-16T16:00:00.000Z",
+      "time": "2026-09-22T08:30:00.000Z",
       "name": "German Buba President Nagel Speaks",
       "impact": "Low",
       "forecast": "",
@@ -3710,312 +3266,12 @@
       ]
     },
     {
-      "currency": "CAD",
-      "time": "2026-09-16T17:30:00.000Z",
-      "name": "BOC Summary of Deliberations",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T18:00:00.000Z",
-      "name": "Federal Funds Rate",
-      "impact": "High",
-      "forecast": "4.00%",
-      "previous": "3.75%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T18:00:00.000Z",
-      "name": "FOMC Economic Projections",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T18:30:00.000Z",
-      "name": "FOMC Press Conference",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-16T20:00:00.000Z",
-      "name": "TIC Long-Term Purchases",
-      "impact": "Low",
-      "forecast": "146.3B",
-      "previous": "172.7B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-09-16T22:45:00.000Z",
-      "name": "GDP q/q",
-      "impact": "High",
-      "forecast": "0.1%",
-      "previous": "0.8%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CHF",
-      "time": "2026-09-17T07:00:00.000Z",
-      "name": "SECO Economic Forecasts",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-17T08:37:00.000Z",
-      "name": "Spanish 10-y Bond Auction",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.74|2.3",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-17T09:00:00.000Z",
-      "name": "Final Core CPI y/y",
-      "impact": "Low",
-      "forecast": "2.4%",
-      "previous": "2.4%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "GBP",
-      "time": "2026-09-17T11:00:00.000Z",
-      "name": "Monetary Policy Summary",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-17T11:00:00.000Z",
-      "name": "MPC Official Bank Rate Votes",
-      "impact": "High",
-      "forecast": "3-0-6",
-      "previous": "3-0-6",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-17T12:30:00.000Z",
-      "name": "Foreign Securities Purchases",
+      "time": "2026-09-22T10:00:00.000Z",
+      "name": "CBI Industrial Order Expectations",
       "impact": "Low",
-      "forecast": "28.64B",
-      "previous": "40.83B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CAD",
-      "time": "2026-09-17T12:30:00.000Z",
-      "name": "IPPI m/m",
-      "impact": "Low",
-      "forecast": "0.0%",
-      "previous": "0.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-17T12:30:00.000Z",
-      "name": "Philly Fed Manufacturing Index",
-      "impact": "Medium",
-      "forecast": "31.3",
-      "previous": "47.4",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-17T12:30:00.000Z",
-      "name": "Unemployment Claims",
-      "impact": "Medium",
-      "forecast": "207K",
-      "previous": "206K",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-17T12:30:00.000Z",
-      "name": "Building Permits",
-      "impact": "Low",
-      "forecast": "1.40M",
-      "previous": "1.44M",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-17T12:30:00.000Z",
-      "name": "Housing Starts",
-      "impact": "Low",
-      "forecast": "1.32M",
-      "previous": "1.24M",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-17T14:00:00.000Z",
-      "name": "Pending Home Sales m/m",
-      "impact": "Low",
-      "forecast": "-0.2%",
-      "previous": "-2.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "AUD",
-      "time": "2026-09-17T14:30:00.000Z",
-      "name": "CB Leading Index m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-09-17T14:30:00.000Z",
-      "name": "Natural Gas Storage",
-      "impact": "Low",
-      "forecast": "49B",
-      "previous": "40B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-09-17T22:45:00.000Z",
-      "name": "FPI m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "0.1%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-09-17T22:45:00.000Z",
-      "name": "Trade Balance",
-      "impact": "Low",
-      "forecast": "-1775M",
-      "previous": "-1949M",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "AUD",
-      "time": "2026-09-17T23:30:00.000Z",
-      "name": "RBA Gov Bullock Speaks",
-      "impact": "Medium",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-17T23:30:00.000Z",
-      "name": "National Core CPI y/y",
-      "impact": "Low",
-      "forecast": "1.8%",
-      "previous": "1.8%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-18T02:54:00.000Z",
-      "name": "BOJ Policy Rate",
-      "impact": "High",
-      "forecast": "<1.25%",
-      "previous": "<1.00%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-18T02:54:00.000Z",
-      "name": "Monetary Policy Statement",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
+      "forecast": "-34",
+      "previous": "-25",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4023,79 +3279,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-18T06:00:00.000Z",
-      "name": "German PPI m/m",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "1.1%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-09-18T06:00:00.000Z",
-      "name": "Retail Sales m/m",
-      "impact": "Medium",
-      "forecast": "-0.2%",
-      "previous": "-0.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-09-18T06:30:00.000Z",
-      "name": "BOJ Press Conference",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-18T08:00:00.000Z",
-      "name": "Current Account",
-      "impact": "Low",
-      "forecast": "30.7B",
-      "previous": "35.1B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-09-18T09:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-6.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-18T10:15:00.000Z",
-      "name": "ECOFIN Meetings",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-09-18T10:30:00.000Z",
+      "time": "2026-09-22T11:00:00.000Z",
       "name": "ECB President Lagarde Speaks",
       "impact": "Medium",
       "forecast": "",
@@ -4107,11 +3291,23 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-18T13:15:00.000Z",
-      "name": "Capacity Utilization Rate",
+      "time": "2026-09-22T12:15:00.000Z",
+      "name": "ADP Weekly Employment Change",
       "impact": "Low",
-      "forecast": "76.4%",
-      "previous": "76.3%",
+      "forecast": "",
+      "previous": "16.3K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-22T14:00:00.000Z",
+      "name": "Consumer Confidence",
+      "impact": "Low",
+      "forecast": "-16",
+      "previous": "-16",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4119,11 +3315,11 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-18T13:15:00.000Z",
-      "name": "Industrial Production m/m",
+      "time": "2026-09-22T14:00:00.000Z",
+      "name": "Richmond Manufacturing Index",
       "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.2%",
+      "forecast": "5",
+      "previous": "4",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4131,8 +3327,8 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-18T13:30:00.000Z",
-      "name": "FOMC Member Bowman Speaks",
+      "time": "2026-09-22T14:05:00.000Z",
+      "name": "FOMC Member Williams Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
@@ -4143,11 +3339,11 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-18T14:00:00.000Z",
-      "name": "CB Leading Index m/m",
+      "time": "2026-09-22T14:20:00.000Z",
+      "name": "FOMC Member Jefferson Speaks",
       "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.2%",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4155,8 +3351,8 @@
     },
     {
       "currency": "USD",
-      "time": "2026-09-18T15:45:00.000Z",
-      "name": "FOMC Member Schmid Speaks",
+      "time": "2026-09-22T17:00:00.000Z",
+      "name": "FOMC Member Barkin Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
@@ -4167,8 +3363,320 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-19T10:15:00.000Z",
-      "name": "ECOFIN Meetings",
+      "time": "2026-09-22T19:30:00.000Z",
+      "name": "German Buba President Nagel Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-22T20:30:00.000Z",
+      "name": "API Weekly Statistical Bulletin",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "AUD",
+      "time": "2026-09-22T23:00:00.000Z",
+      "name": "Flash Manufacturing PMI",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "52.0",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "JPY",
+      "time": "2026-09-22T23:00:00.000Z",
+      "name": "Bank Holiday",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-23T07:15:00.000Z",
+      "name": "French Flash Manufacturing PMI",
+      "impact": "Medium",
+      "forecast": "50.9",
+      "previous": "51.5",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-23T07:30:00.000Z",
+      "name": "German Flash Manufacturing PMI",
+      "impact": "Medium",
+      "forecast": "54.0",
+      "previous": "54.1",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-23T08:00:00.000Z",
+      "name": "Flash Manufacturing PMI",
+      "impact": "Low",
+      "forecast": "52.6",
+      "previous": "52.8",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-23T08:30:00.000Z",
+      "name": "Flash Manufacturing PMI",
+      "impact": "Medium",
+      "forecast": "51.4",
+      "previous": "51.5",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-23T09:34:00.000Z",
+      "name": "German 30-y Bond Auction",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.90|2.4",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-23T13:45:00.000Z",
+      "name": "Flash Manufacturing PMI",
+      "impact": "Low",
+      "forecast": "53.4",
+      "previous": "53.2",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-23T14:05:00.000Z",
+      "name": "FOMC Member Barr Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-23T14:30:00.000Z",
+      "name": "Crude Oil Inventories",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-0.6M",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "JPY",
+      "time": "2026-09-24T00:30:00.000Z",
+      "name": "Flash Manufacturing PMI",
+      "impact": "Low",
+      "forecast": "55.0",
+      "previous": "55.1",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "AUD",
+      "time": "2026-09-24T00:35:00.000Z",
+      "name": "NAB Quarterly Business Confidence",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-19",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "AUD",
+      "time": "2026-09-24T01:30:00.000Z",
+      "name": "Employment Change",
+      "impact": "High",
+      "forecast": "20.9K",
+      "previous": "-15.8K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "AUD",
+      "time": "2026-09-24T01:30:00.000Z",
+      "name": "Unemployment Rate",
+      "impact": "High",
+      "forecast": "4.5%",
+      "previous": "4.5%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CHF",
+      "time": "2026-09-24T07:30:00.000Z",
+      "name": "SNB Monetary Policy Assessment",
+      "impact": "High",
+      "forecast": "0.00%",
+      "previous": "0.00%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CHF",
+      "time": "2026-09-24T08:00:00.000Z",
+      "name": "SNB Press Conference",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-24T08:00:00.000Z",
+      "name": "ECB Economic Bulletin",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-24T08:00:00.000Z",
+      "name": "German ifo Business Climate",
+      "impact": "Low",
+      "forecast": "89.0",
+      "previous": "88.8",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T08:10:00.000Z",
+      "name": "FOMC Member Williams Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-24T09:30:00.000Z",
+      "name": "MPC Member Dhingra Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-24T10:00:00.000Z",
+      "name": "CBI Realized Sales",
+      "impact": "Low",
+      "forecast": "-50",
+      "previous": "-48",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CAD",
+      "time": "2026-09-24T12:30:00.000Z",
+      "name": "Core Retail Sales m/m",
+      "impact": "Medium",
+      "forecast": "-0.5%",
+      "previous": "0.5%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T12:30:00.000Z",
+      "name": "Unemployment Claims",
+      "impact": "Medium",
+      "forecast": "201K",
+      "previous": "196K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T12:30:00.000Z",
+      "name": "Current Account",
+      "impact": "Low",
+      "forecast": "-259B",
+      "previous": "-227B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T12:50:00.000Z",
+      "name": "FOMC Member Hammack Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
@@ -4179,11 +3687,203 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-09-20T01:00:00.000Z",
-      "name": "1-y Loan Prime Rate",
+      "time": "2026-09-24T13:00:00.000Z",
+      "name": "CB Leading Index m/m",
       "impact": "Low",
-      "forecast": "3.00%",
-      "previous": "3.00%",
+      "forecast": "",
+      "previous": "-0.3%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-24T13:00:00.000Z",
+      "name": "Belgian NBB Business Climate",
+      "impact": "Low",
+      "forecast": "-13.5",
+      "previous": "-13.2",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-24T13:30:00.000Z",
+      "name": "MPC Member Breeden Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-24T14:00:00.000Z",
+      "name": "MPC Member Lombardelli Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T14:00:00.000Z",
+      "name": "New Home Sales",
+      "impact": "Low",
+      "forecast": "619K",
+      "previous": "607K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T14:10:00.000Z",
+      "name": "FOMC Member Paulson Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T14:30:00.000Z",
+      "name": "Natural Gas Storage",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "44B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-24T23:01:00.000Z",
+      "name": "GfK Consumer Confidence",
+      "impact": "Low",
+      "forecast": "-16",
+      "previous": "-14",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-09-24T23:01:00.000Z",
+      "name": "Bank Holiday",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-25T06:00:00.000Z",
+      "name": "German GfK Consumer Climate",
+      "impact": "Low",
+      "forecast": "-27.1",
+      "previous": "-26.6",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-09-25T08:00:00.000Z",
+      "name": "M3 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "3.5%",
+      "previous": "3.4%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-09-25T09:15:00.000Z",
+      "name": "BOE Gov Bailey Speaks",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-25T09:15:00.000Z",
+      "name": "FOMC Member Williams Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-25T12:30:00.000Z",
+      "name": "Core Durable Goods Orders m/m",
+      "impact": "Low",
+      "forecast": "0.5%",
+      "previous": "0.4%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-25T14:00:00.000Z",
+      "name": "Revised UoM Consumer Sentiment",
+      "impact": "Medium",
+      "forecast": "47.5",
+      "previous": "47.8",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-25T18:00:00.000Z",
+      "name": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "NZD",
+      "time": "2026-09-26T14:00:00.000Z",
+      "name": "Daylight Saving Time Shift",
+      "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
