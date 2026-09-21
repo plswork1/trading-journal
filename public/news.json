@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T11:23:53.527Z",
+  "generatedAt": "2026-09-21T17:23:32.719Z",
   "events": [
     {
       "currency": "NZD",
@@ -3788,6 +3788,18 @@
       "impact": "Holiday",
       "forecast": "",
       "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "JPY",
+      "time": "2026-09-25T05:00:00.000Z",
+      "name": "BOJ Core CPI y/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "1.6%",
       "actual": "",
       "sources": [
         "forexfactory"
