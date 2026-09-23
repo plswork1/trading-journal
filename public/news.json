@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:56:52.859Z",
+  "generatedAt": "2026-09-23T12:29:46.299Z",
   "events": [
     {
       "currency": "NZD",
@@ -3471,7 +3471,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-09-23T09:34:00.000Z",
+      "time": "2026-09-23T09:35:00.000Z",
       "name": "German 30-y Bond Auction",
       "impact": "Low",
       "forecast": "",
