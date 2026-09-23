@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:02:26.933Z",
+  "generatedAt": "2026-09-23T06:56:52.859Z",
   "events": [
     {
       "currency": "NZD",
@@ -3510,8 +3510,20 @@
       "time": "2026-09-23T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "-0.6M",
+      "forecast": "-0.7M",
       "previous": "-0.6M",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-23T16:00:00.000Z",
+      "name": "FOMC Member Goolsbee Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3786,7 +3798,7 @@
       "time": "2026-09-24T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "52B",
+      "forecast": "50B",
       "previous": "44B",
       "actual": "",
       "sources": [
@@ -3884,6 +3896,18 @@
       "impact": "Low",
       "forecast": "0.6%",
       "previous": "0.4%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-25T13:20:00.000Z",
+      "name": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
