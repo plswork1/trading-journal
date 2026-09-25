@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:53:05.757Z",
+  "generatedAt": "2026-09-25T00:08:06.704Z",
   "events": [
     {
       "currency": "NZD",
@@ -3834,6 +3834,18 @@
       "time": "2026-09-24T23:01:00.000Z",
       "name": "Bank Holiday",
       "impact": "Holiday",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-24T23:55:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
