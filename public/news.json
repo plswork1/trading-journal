@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T07:55:38.890Z",
+  "generatedAt": "2026-09-28T16:16:05.338Z",
   "events": [
     {
       "currency": "NZD",
@@ -3842,24 +3842,24 @@
       ]
     },
     {
-      "currency": "USD",
+      "currency": "CHF",
       "time": "2026-09-30T14:30:00.000Z",
-      "name": "Crude Oil Inventories",
+      "name": "Gov Board Member Tschudin Speaks",
       "impact": "Low",
       "forecast": "",
-      "previous": "3.0M",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
       ]
     },
     {
-      "currency": "CHF",
-      "time": "2026-09-30T15:00:00.000Z",
-      "name": "Gov Board Member Tschudin Speaks",
+      "currency": "USD",
+      "time": "2026-09-30T14:30:00.000Z",
+      "name": "Crude Oil Inventories",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "3.0M",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4494,7 +4494,7 @@
       "time": "2026-10-02T12:30:00.000Z",
       "name": "Non-Farm Employment Change",
       "impact": "High",
-      "forecast": "98K",
+      "forecast": "89K",
       "previous": "162K",
       "actual": "",
       "sources": [
@@ -4518,7 +4518,7 @@
       "time": "2026-10-02T14:00:00.000Z",
       "name": "Factory Orders m/m",
       "impact": "Low",
-      "forecast": "-0.1%",
+      "forecast": "0.1%",
       "previous": "0.9%",
       "actual": "",
       "sources": [
