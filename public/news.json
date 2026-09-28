@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:16:05.338Z",
+  "generatedAt": "2026-09-28T22:20:11.075Z",
   "events": [
     {
       "currency": "NZD",
@@ -3210,7 +3210,7 @@
       "time": "2026-09-29T01:30:00.000Z",
       "name": "Household Spending m/m",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "previous": "1.1%",
       "actual": "",
       "sources": [
@@ -3258,7 +3258,7 @@
       "time": "2026-09-29T07:00:00.000Z",
       "name": "Spanish Flash CPI y/y",
       "impact": "Low",
-      "forecast": "4.7%",
+      "forecast": "4.6%",
       "previous": "4.3%",
       "actual": "",
       "sources": [
@@ -3282,7 +3282,7 @@
       "time": "2026-09-29T08:30:00.000Z",
       "name": "Mortgage Approvals",
       "impact": "Low",
-      "forecast": "57K",
+      "forecast": "56K",
       "previous": "56K",
       "actual": "",
       "sources": [
@@ -3354,7 +3354,7 @@
       "time": "2026-09-29T12:30:00.000Z",
       "name": "GDP m/m",
       "impact": "Medium",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "0.3%",
       "actual": "",
       "sources": [
@@ -3390,7 +3390,7 @@
       "time": "2026-09-29T14:00:00.000Z",
       "name": "CB Consumer Confidence",
       "impact": "Medium",
-      "forecast": "90.1",
+      "forecast": "89.2",
       "previous": "89.4",
       "actual": "",
       "sources": [
@@ -3534,7 +3534,7 @@
       "time": "2026-09-29T23:50:00.000Z",
       "name": "Prelim Industrial Production m/m",
       "impact": "Low",
-      "forecast": "1.2%",
+      "forecast": "1.4%",
       "previous": "0.1%",
       "actual": "",
       "sources": [
@@ -3546,7 +3546,7 @@
       "time": "2026-09-29T23:50:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
-      "forecast": "3.2%",
+      "forecast": "3.3%",
       "previous": "4.0%",
       "actual": "",
       "sources": [
@@ -3618,7 +3618,7 @@
       "time": "2026-09-30T05:00:00.000Z",
       "name": "Housing Starts y/y",
       "impact": "Low",
-      "forecast": "6.8%",
+      "forecast": "6.9%",
       "previous": "8.2%",
       "actual": "",
       "sources": [
@@ -3630,7 +3630,7 @@
       "time": "2026-09-30T06:00:00.000Z",
       "name": "German Import Prices m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.6%",
       "previous": "0.2%",
       "actual": "",
       "sources": [
@@ -3690,7 +3690,7 @@
       "time": "2026-09-30T07:55:00.000Z",
       "name": "German Unemployment Change",
       "impact": "Low",
-      "forecast": "2K",
+      "forecast": "0K",
       "previous": "4K",
       "actual": "",
       "sources": [
@@ -3714,7 +3714,7 @@
       "time": "2026-09-30T09:00:00.000Z",
       "name": "Italian Prelim CPI m/m",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.2%",
       "previous": "0.5%",
       "actual": "",
       "sources": [
@@ -3762,7 +3762,7 @@
       "time": "2026-09-30T12:15:00.000Z",
       "name": "ADP Non-Farm Employment Change",
       "impact": "Medium",
-      "forecast": "70K",
+      "forecast": "73K",
       "previous": "38K",
       "actual": "",
       "sources": [
@@ -3798,7 +3798,7 @@
       "time": "2026-09-30T12:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-113.8B",
+      "forecast": "-116.3B",
       "previous": "-118.8B",
       "actual": "",
       "sources": [
@@ -3810,7 +3810,7 @@
       "time": "2026-09-30T12:30:00.000Z",
       "name": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "forecast": "1.1%",
+      "forecast": "0.5%",
       "previous": "1.3%",
       "actual": "",
       "sources": [
@@ -3834,7 +3834,7 @@
       "time": "2026-09-30T13:45:00.000Z",
       "name": "Chicago PMI",
       "impact": "Low",
-      "forecast": "51.3",
+      "forecast": "51.2",
       "previous": "47.1",
       "actual": "",
       "sources": [
@@ -3978,7 +3978,7 @@
       "time": "2026-10-01T01:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "2.10B",
+      "forecast": "2.00B",
       "previous": "1.92B",
       "actual": "",
       "sources": [
@@ -4002,7 +4002,7 @@
       "time": "2026-10-01T06:00:00.000Z",
       "name": "Nationwide HPI m/m",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.0%",
       "previous": "0.2%",
       "actual": "",
       "sources": [
@@ -4038,7 +4038,7 @@
       "time": "2026-10-01T06:30:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
-      "forecast": "2.2%",
+      "forecast": "2.1%",
       "previous": "2.3%",
       "actual": "",
       "sources": [
@@ -4062,7 +4062,7 @@
       "time": "2026-10-01T07:30:00.000Z",
       "name": "Manufacturing PMI",
       "impact": "Low",
-      "forecast": "56.0",
+      "forecast": "56.4",
       "previous": "57.1",
       "actual": "",
       "sources": [
@@ -4074,7 +4074,7 @@
       "time": "2026-10-01T07:45:00.000Z",
       "name": "Italian Manufacturing PMI",
       "impact": "Low",
-      "forecast": "49.9",
+      "forecast": "50.1",
       "previous": "49.6",
       "actual": "",
       "sources": [
@@ -4098,7 +4098,7 @@
       "time": "2026-10-01T08:00:00.000Z",
       "name": "Italian Monthly Unemployment Rate",
       "impact": "Low",
-      "forecast": "5.7%",
+      "forecast": "5.8%",
       "previous": "5.8%",
       "actual": "",
       "sources": [
@@ -4206,7 +4206,7 @@
       "time": "2026-10-01T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "199K",
+      "forecast": "201K",
       "previous": "197K",
       "actual": "",
       "sources": [
@@ -4254,7 +4254,7 @@
       "time": "2026-10-01T13:45:00.000Z",
       "name": "Final Manufacturing PMI",
       "impact": "Low",
-      "forecast": "57.0",
+      "forecast": "56.9",
       "previous": "57.0",
       "actual": "",
       "sources": [
@@ -4278,7 +4278,7 @@
       "time": "2026-10-01T14:00:00.000Z",
       "name": "ISM Manufacturing PMI",
       "impact": "Medium",
-      "forecast": "55.0",
+      "forecast": "54.8",
       "previous": "54.6",
       "actual": "",
       "sources": [
@@ -4290,7 +4290,7 @@
       "time": "2026-10-01T14:00:00.000Z",
       "name": "Construction Spending m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "-0.5%",
       "actual": "",
       "sources": [
@@ -4302,7 +4302,7 @@
       "time": "2026-10-01T14:15:00.000Z",
       "name": "Omdia Total Vehicle Sales",
       "impact": "Low",
-      "forecast": "16.5M",
+      "forecast": "16.3M",
       "previous": "16.8M",
       "actual": "",
       "sources": [
@@ -4494,7 +4494,7 @@
       "time": "2026-10-02T12:30:00.000Z",
       "name": "Non-Farm Employment Change",
       "impact": "High",
-      "forecast": "89K",
+      "forecast": "90K",
       "previous": "162K",
       "actual": "",
       "sources": [
