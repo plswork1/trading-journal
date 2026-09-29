@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T09:15:04.285Z",
+  "generatedAt": "2026-09-29T16:13:31.491Z",
   "events": [
     {
       "currency": "NZD",
@@ -3302,24 +3302,24 @@
       ]
     },
     {
-      "currency": "EUR",
-      "time": "2026-09-29T09:33:00.000Z",
-      "name": "Italian 10-y Bond Auction",
+      "currency": "GBP",
+      "time": "2026-09-29T09:02:00.000Z",
+      "name": "10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "4.10|1.6",
+      "previous": "5.16|3.6",
       "actual": "",
       "sources": [
         "forexfactory"
       ]
     },
     {
-      "currency": "GBP",
-      "time": "2026-09-29T09:33:00.000Z",
-      "name": "10-y Bond Auction",
+      "currency": "EUR",
+      "time": "2026-09-29T09:04:00.000Z",
+      "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "5.16|3.6",
+      "previous": "4.10|1.6",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3858,7 +3858,7 @@
       "time": "2026-09-30T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-1.9M",
       "previous": "3.0M",
       "actual": "",
       "sources": [
