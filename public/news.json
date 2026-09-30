@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:52:32.896Z",
+  "generatedAt": "2026-09-30T06:08:43.266Z",
   "events": [
     {
       "currency": "NZD",
@@ -3882,6 +3882,18 @@
       "time": "2026-09-30T19:25:00.000Z",
       "name": "FOMC Member Cook Speaks",
       "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-09-30T19:30:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
