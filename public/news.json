@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:08:53.155Z",
+  "generatedAt": "2026-09-30T00:52:32.896Z",
   "events": [
     {
       "currency": "NZD",
@@ -3690,7 +3690,7 @@
       "time": "2026-09-30T07:55:00.000Z",
       "name": "German Unemployment Change",
       "impact": "Low",
-      "forecast": "0K",
+      "forecast": "1K",
       "previous": "4K",
       "actual": "",
       "sources": [
@@ -3858,7 +3858,7 @@
       "time": "2026-09-30T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "-1.9M",
+      "forecast": "-0.7M",
       "previous": "3.0M",
       "actual": "",
       "sources": [
@@ -4062,7 +4062,7 @@
       "time": "2026-10-01T07:30:00.000Z",
       "name": "Manufacturing PMI",
       "impact": "Low",
-      "forecast": "56.4",
+      "forecast": "56.3",
       "previous": "57.1",
       "actual": "",
       "sources": [
@@ -4314,7 +4314,7 @@
       "time": "2026-10-01T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "63B",
       "previous": "53B",
       "actual": "",
       "sources": [
