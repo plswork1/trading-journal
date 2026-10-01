@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:59:30.534Z",
+  "generatedAt": "2026-10-01T15:09:47.920Z",
   "events": [
     {
       "currency": "NZD",
@@ -4143,19 +4143,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-10-01T09:00:00.000Z",
-      "name": "Unemployment Rate",
-      "impact": "Low",
-      "forecast": "6.4%",
-      "previous": "6.4%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
-      "time": "2026-10-01T09:03:00.000Z",
+      "time": "2026-10-01T08:42:00.000Z",
       "name": "Spanish 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -4167,11 +4155,23 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-10-01T09:18:00.000Z",
+      "time": "2026-10-01T08:57:00.000Z",
       "name": "French 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
       "previous": "4.23|2.3",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-10-01T09:00:00.000Z",
+      "name": "Unemployment Rate",
+      "impact": "Low",
+      "forecast": "6.4%",
+      "previous": "6.4%",
       "actual": "",
       "sources": [
         "forexfactory"
