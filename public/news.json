@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T01:40:46.258Z",
+  "generatedAt": "2026-10-01T07:59:30.534Z",
   "events": [
     {
       "currency": "NZD",
@@ -4506,7 +4506,7 @@
       "time": "2026-10-02T12:30:00.000Z",
       "name": "Non-Farm Employment Change",
       "impact": "High",
-      "forecast": "90K",
+      "forecast": "89K",
       "previous": "162K",
       "actual": "",
       "sources": [
