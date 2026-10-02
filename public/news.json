@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T20:39:43.041Z",
+  "generatedAt": "2026-10-02T00:19:22.254Z",
   "events": [
     {
       "currency": "NZD",
@@ -4394,10 +4394,10 @@
       ]
     },
     {
-      "currency": "USD",
-      "time": "2026-10-01T22:45:00.000Z",
-      "name": "FOMC Member Logan Speaks",
-      "impact": "Low",
+      "currency": "CNY",
+      "time": "2026-10-01T23:01:00.000Z",
+      "name": "Bank Holiday",
+      "impact": "Holiday",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -4406,10 +4406,10 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-10-01T23:01:00.000Z",
-      "name": "Bank Holiday",
-      "impact": "Holiday",
+      "currency": "USD",
+      "time": "2026-10-01T23:20:00.000Z",
+      "name": "FOMC Member Logan Speaks",
+      "impact": "Low",
       "forecast": "",
       "previous": "",
       "actual": "",
