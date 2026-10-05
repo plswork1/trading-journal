@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:35:03.724Z",
+  "generatedAt": "2026-10-05T22:59:30.798Z",
   "events": [
     {
       "currency": "NZD",
@@ -3366,7 +3366,7 @@
       "time": "2026-10-06T06:00:00.000Z",
       "name": "German Factory Orders m/m",
       "impact": "Low",
-      "forecast": "-1.0%",
+      "forecast": "-0.9%",
       "previous": "2.5%",
       "actual": "",
       "sources": [
@@ -3462,7 +3462,7 @@
       "time": "2026-10-06T09:00:00.000Z",
       "name": "Retail Sales m/m",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.2%",
       "previous": "-0.6%",
       "actual": "",
       "sources": [
@@ -3486,7 +3486,7 @@
       "time": "2026-10-06T12:30:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "1.3B",
+      "forecast": "1.5B",
       "previous": "0.8B",
       "actual": "",
       "sources": [
@@ -3498,7 +3498,7 @@
       "time": "2026-10-06T12:30:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "-95.2B",
+      "forecast": "-100.8B",
       "previous": "-88.6B",
       "actual": "",
       "sources": [
@@ -3606,7 +3606,7 @@
       "time": "2026-10-07T05:00:00.000Z",
       "name": "Leading Indicators",
       "impact": "Low",
-      "forecast": "118.1%",
+      "forecast": "118.3%",
       "previous": "117.9%",
       "actual": "",
       "sources": [
@@ -3702,7 +3702,7 @@
       "time": "2026-10-07T19:00:00.000Z",
       "name": "Consumer Credit m/m",
       "impact": "Low",
-      "forecast": "15.4B",
+      "forecast": "14.4B",
       "previous": "18.1B",
       "actual": "",
       "sources": [
@@ -3726,7 +3726,7 @@
       "time": "2026-10-07T23:50:00.000Z",
       "name": "Current Account",
       "impact": "Low",
-      "forecast": "2.10T",
+      "forecast": "2.13T",
       "previous": "2.52T",
       "actual": "",
       "sources": [
@@ -3762,7 +3762,7 @@
       "time": "2026-10-08T05:00:00.000Z",
       "name": "Economy Watchers Sentiment",
       "impact": "Low",
-      "forecast": "46.6",
+      "forecast": "46.7",
       "previous": "46.4",
       "actual": "",
       "sources": [
@@ -4014,7 +4014,7 @@
       "time": "2026-10-09T12:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "9.0K",
+      "forecast": "6.2K",
       "previous": "-41.7K",
       "actual": "",
       "sources": [
