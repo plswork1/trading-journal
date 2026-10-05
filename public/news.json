@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T07:53:57.631Z",
+  "generatedAt": "2026-10-05T16:35:03.724Z",
   "events": [
     {
       "currency": "NZD",
@@ -3555,6 +3555,18 @@
     },
     {
       "currency": "USD",
+      "time": "2026-10-06T17:15:00.000Z",
+      "name": "FOMC Member Schmid Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
       "time": "2026-10-06T20:30:00.000Z",
       "name": "API Weekly Statistical Bulletin",
       "impact": "Low",
@@ -3794,6 +3806,18 @@
       ]
     },
     {
+      "currency": "USD",
+      "time": "2026-10-08T08:30:00.000Z",
+      "name": "FOMC Member Waller Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "GBP",
       "time": "2026-10-08T09:15:00.000Z",
       "name": "MPC Member Greene Speaks",
@@ -3834,6 +3858,18 @@
       "time": "2026-10-08T11:30:00.000Z",
       "name": "ECB Monetary Policy Meeting Accounts",
       "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-10-08T12:15:00.000Z",
+      "name": "BOE Gov Bailey Speaks",
+      "impact": "High",
       "forecast": "",
       "previous": "",
       "actual": "",
