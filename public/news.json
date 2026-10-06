@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T16:22:36.275Z",
+  "generatedAt": "2026-10-06T21:22:26.156Z",
   "events": [
     {
       "currency": "NZD",
@@ -3543,7 +3543,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-10-06T15:50:00.000Z",
+      "time": "2026-10-06T15:46:00.000Z",
       "name": "GDT Price Index",
       "impact": "Low",
       "forecast": "",
@@ -3606,7 +3606,7 @@
       "time": "2026-10-07T05:00:00.000Z",
       "name": "Leading Indicators",
       "impact": "Low",
-      "forecast": "118.3%",
+      "forecast": "118.1%",
       "previous": "117.9%",
       "actual": "",
       "sources": [
@@ -3630,7 +3630,7 @@
       "time": "2026-10-07T06:00:00.000Z",
       "name": "Lloyds HPI m/m",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.0%",
       "previous": "-0.2%",
       "actual": "",
       "sources": [
@@ -3666,7 +3666,7 @@
       "time": "2026-10-07T14:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "2.1M",
+      "forecast": "1.9M",
       "previous": "0.9M",
       "actual": "",
       "sources": [
@@ -3702,7 +3702,7 @@
       "time": "2026-10-07T19:00:00.000Z",
       "name": "Consumer Credit m/m",
       "impact": "Low",
-      "forecast": "14.4B",
+      "forecast": "14.5B",
       "previous": "18.1B",
       "actual": "",
       "sources": [
@@ -3726,7 +3726,7 @@
       "time": "2026-10-07T23:50:00.000Z",
       "name": "Current Account",
       "impact": "Low",
-      "forecast": "2.13T",
+      "forecast": "2.14T",
       "previous": "2.52T",
       "actual": "",
       "sources": [
@@ -3774,7 +3774,7 @@
       "time": "2026-10-08T06:00:00.000Z",
       "name": "German Trade Balance",
       "impact": "Low",
-      "forecast": "18.9B",
+      "forecast": "19.0B",
       "previous": "21.3B",
       "actual": "",
       "sources": [
@@ -3918,7 +3918,7 @@
       "time": "2026-10-08T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "79B",
       "previous": "64B",
       "actual": "",
       "sources": [
@@ -4014,7 +4014,7 @@
       "time": "2026-10-09T12:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "6.2K",
+      "forecast": "6.3K",
       "previous": "-41.7K",
       "actual": "",
       "sources": [
@@ -4038,7 +4038,7 @@
       "time": "2026-10-09T14:00:00.000Z",
       "name": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "forecast": "47.6",
+      "forecast": "47.5",
       "previous": "47.8",
       "actual": "",
       "sources": [
