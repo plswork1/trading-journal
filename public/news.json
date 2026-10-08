@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T14:11:08.594Z",
+  "generatedAt": "2026-10-08T20:20:14.104Z",
   "events": [
     {
       "currency": "NZD",
@@ -4026,7 +4026,7 @@
       "time": "2026-10-09T12:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "6.3K",
+      "forecast": "6.1K",
       "previous": "-41.7K",
       "actual": "",
       "sources": [
