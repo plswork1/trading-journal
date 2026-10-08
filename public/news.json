@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:33:27.565Z",
+  "generatedAt": "2026-10-08T06:48:19.103Z",
   "events": [
     {
       "currency": "NZD",
@@ -3831,6 +3831,18 @@
     },
     {
       "currency": "GBP",
+      "time": "2026-10-08T09:00:00.000Z",
+      "name": "MPC Member Pill Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
       "time": "2026-10-08T09:15:00.000Z",
       "name": "MPC Member Greene Speaks",
       "impact": "Low",
@@ -3845,18 +3857,6 @@
       "currency": "EUR",
       "time": "2026-10-08T09:15:00.000Z",
       "name": "Eurogroup Meetings",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-10-08T10:30:00.000Z",
-      "name": "MPC Member Pill Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
