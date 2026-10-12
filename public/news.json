@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T16:17:12.615Z",
+  "generatedAt": "2026-10-12T23:20:54.235Z",
   "events": [
     {
       "currency": "NZD",
@@ -3294,7 +3294,7 @@
       "time": "2026-10-13T08:03:00.000Z",
       "name": "M2 Money Supply y/y",
       "impact": "Low",
-      "forecast": "7.5%",
+      "forecast": "7.4%",
       "previous": "7.5%",
       "actual": "",
       "sources": [
@@ -3306,7 +3306,7 @@
       "time": "2026-10-13T08:03:00.000Z",
       "name": "New Loans",
       "impact": "Low",
-      "forecast": "300B",
+      "forecast": "1025B",
       "previous": "60B",
       "actual": "",
       "sources": [
@@ -3318,7 +3318,7 @@
       "time": "2026-10-13T10:00:00.000Z",
       "name": "NFIB Small Business Index",
       "impact": "Low",
-      "forecast": "98.0",
+      "forecast": "98.1",
       "previous": "98.7",
       "actual": "",
       "sources": [
@@ -3342,7 +3342,7 @@
       "time": "2026-10-13T14:00:00.000Z",
       "name": "Existing Home Sales",
       "impact": "Low",
-      "forecast": "3.96M",
+      "forecast": "3.95M",
       "previous": "3.98M",
       "actual": "",
       "sources": [
@@ -3368,18 +3368,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": "0.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "GBP",
-      "time": "2026-10-13T16:00:00.000Z",
-      "name": "MPC Member Dhingra Speaks",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3462,7 +3450,7 @@
       "time": "2026-10-14T02:03:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "805B",
+      "forecast": "790B",
       "previous": "809B",
       "actual": "",
       "sources": [
@@ -3510,7 +3498,7 @@
       "time": "2026-10-14T06:00:00.000Z",
       "name": "German WPI m/m",
       "impact": "Low",
-      "forecast": "0.7%",
+      "forecast": "0.6%",
       "previous": "0.9%",
       "actual": "",
       "sources": [
@@ -3582,7 +3570,7 @@
       "time": "2026-10-14T12:30:00.000Z",
       "name": "Building Permits m/m",
       "impact": "Low",
-      "forecast": "3.1%",
+      "forecast": "2.9%",
       "previous": "-17.3%",
       "actual": "",
       "sources": [
@@ -3678,7 +3666,7 @@
       "time": "2026-10-14T23:50:00.000Z",
       "name": "Core Machinery Orders m/m",
       "impact": "Low",
-      "forecast": "2.5%",
+      "forecast": "2.2%",
       "previous": "-3.7%",
       "actual": "",
       "sources": [
@@ -3690,7 +3678,7 @@
       "time": "2026-10-15T00:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "20.0K",
+      "forecast": "19.6K",
       "previous": "39.5K",
       "actual": "",
       "sources": [
@@ -3786,7 +3774,7 @@
       "time": "2026-10-15T06:00:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-21.8B",
+      "forecast": "-21.9B",
       "previous": "-21.0B",
       "actual": "",
       "sources": [
@@ -3798,7 +3786,7 @@
       "time": "2026-10-15T06:00:00.000Z",
       "name": "Index of Services 3m/3m",
       "impact": "Low",
-      "forecast": "0.7%",
+      "forecast": "0.8%",
       "previous": "0.6%",
       "actual": "",
       "sources": [
@@ -3810,7 +3798,7 @@
       "time": "2026-10-15T06:30:00.000Z",
       "name": "PPI m/m",
       "impact": "Low",
-      "forecast": "0.5%",
+      "forecast": "0.6%",
       "previous": "0.7%",
       "actual": "",
       "sources": [
@@ -3882,7 +3870,7 @@
       "time": "2026-10-15T09:00:00.000Z",
       "name": "Industrial Production m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "-0.1%",
       "actual": "",
       "sources": [
@@ -3918,7 +3906,7 @@
       "time": "2026-10-15T12:30:00.000Z",
       "name": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "forecast": "26.5",
+      "forecast": "28.2",
       "previous": "37.8",
       "actual": "",
       "sources": [
@@ -3930,7 +3918,7 @@
       "time": "2026-10-15T12:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "195K",
+      "forecast": "199K",
       "previous": "197K",
       "actual": "",
       "sources": [
@@ -4122,7 +4110,7 @@
       "time": "2026-10-16T12:15:00.000Z",
       "name": "Housing Starts",
       "impact": "Low",
-      "forecast": "230K",
+      "forecast": "234K",
       "previous": "229K",
       "actual": "",
       "sources": [
@@ -4146,7 +4134,7 @@
       "time": "2026-10-16T12:30:00.000Z",
       "name": "Import Prices m/m",
       "impact": "Low",
-      "forecast": "0.6%",
+      "forecast": "0.9%",
       "previous": "0.7%",
       "actual": "",
       "sources": [
@@ -4194,7 +4182,7 @@
       "time": "2026-10-16T18:00:00.000Z",
       "name": "Federal Budget Balance",
       "impact": "Low",
-      "forecast": "75.3B",
+      "forecast": "-34.7B",
       "previous": "-166.8B",
       "actual": "",
       "sources": [
@@ -4206,7 +4194,7 @@
       "time": "2026-10-16T20:00:00.000Z",
       "name": "TIC Long-Term Purchases",
       "impact": "Low",
-      "forecast": "125.7B",
+      "forecast": "75.2B",
       "previous": "-27.9B",
       "actual": "",
       "sources": [
