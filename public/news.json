@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T04:28:50.974Z",
+  "generatedAt": "2026-10-13T12:18:59.142Z",
   "events": [
     {
       "currency": "NZD",
@@ -3290,30 +3290,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-10-13T08:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.4%",
-      "previous": "7.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-10-13T08:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "1025B",
-      "previous": "60B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "USD",
       "time": "2026-10-13T10:00:00.000Z",
       "name": "NFIB Small Business Index",
@@ -3530,6 +3506,30 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-10-14T08:03:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "7.4%",
+      "previous": "7.5%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-10-14T08:03:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "1025B",
+      "previous": "60B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "EUR",
       "time": "2026-10-14T08:30:00.000Z",
       "name": "ECB President Lagarde Speaks",
@@ -3558,6 +3558,18 @@
       "time": "2026-10-14T09:40:00.000Z",
       "name": "FOMC Member Bowman Speaks",
       "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-10-14T10:15:00.000Z",
+      "name": "EU Economic Summit",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -3872,6 +3884,18 @@
       "impact": "Low",
       "forecast": "0.0%",
       "previous": "-0.1%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-10-15T10:15:00.000Z",
+      "name": "EU Economic Summit",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
