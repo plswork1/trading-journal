@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:09:45.020Z",
+  "generatedAt": "2026-10-14T14:09:51.049Z",
   "events": [
     {
       "currency": "NZD",
@@ -3506,30 +3506,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-10-14T08:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.4%",
-      "previous": "7.5%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-10-14T08:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "1025B",
-      "previous": "60B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-10-14T08:30:00.000Z",
       "name": "ECB President Lagarde Speaks",
@@ -3542,8 +3518,32 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-10-14T09:00:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "7.4%",
+      "previous": "7.5%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-10-14T09:01:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "1025B",
+      "previous": "60B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "EUR",
-      "time": "2026-10-14T09:34:00.000Z",
+      "time": "2026-10-14T09:38:00.000Z",
       "name": "German 30-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -3990,7 +3990,7 @@
       "time": "2026-10-15T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "76B",
       "previous": "85B",
       "actual": "",
       "sources": [
@@ -4002,7 +4002,7 @@
       "time": "2026-10-15T16:00:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.2M",
       "previous": "-3.2M",
       "actual": "",
       "sources": [
