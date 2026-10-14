@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:29:54.721Z",
+  "generatedAt": "2026-10-14T02:38:27.620Z",
   "events": [
     {
       "currency": "NZD",
@@ -3422,24 +3422,24 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-10-14T02:03:00.000Z",
-      "name": "Trade Balance",
-      "impact": "Low",
-      "forecast": "790B",
-      "previous": "809B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-10-14T02:10:00.000Z",
       "name": "ECB President Lagarde Speaks",
       "impact": "Medium",
       "forecast": "",
       "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-10-14T03:03:00.000Z",
+      "name": "Trade Balance",
+      "impact": "Low",
+      "forecast": "790B",
+      "previous": "809B",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3653,6 +3653,18 @@
       "currency": "USD",
       "time": "2026-10-14T18:00:00.000Z",
       "name": "Beige Book",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-10-14T19:00:00.000Z",
+      "name": "FOMC Member Goolsbee Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
