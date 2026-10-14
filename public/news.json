@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:38:27.620Z",
+  "generatedAt": "2026-10-14T08:09:45.020Z",
   "events": [
     {
       "currency": "NZD",
@@ -3435,7 +3435,7 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-10-14T03:03:00.000Z",
+      "time": "2026-10-14T02:31:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
       "forecast": "790B",
@@ -4158,7 +4158,7 @@
       "time": "2026-10-16T12:30:00.000Z",
       "name": "Foreign Securities Purchases",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "23.59B",
       "previous": "20.65B",
       "actual": "",
       "sources": [
