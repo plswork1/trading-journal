@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:31:35.720Z",
+  "generatedAt": "2026-10-19T17:56:10.638Z",
   "events": [
     {
       "currency": "NZD",
@@ -3462,7 +3462,7 @@
       "time": "2026-10-20T14:00:00.000Z",
       "name": "Pending Home Sales m/m",
       "impact": "Low",
-      "forecast": "-0.4%",
+      "forecast": "-0.7%",
       "previous": "0.3%",
       "actual": "",
       "sources": [
@@ -3522,7 +3522,7 @@
       "time": "2026-10-20T23:50:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "-0.21T",
+      "forecast": "-0.26T",
       "previous": "-0.84T",
       "actual": "",
       "sources": [
