@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T12:33:26.732Z",
+  "generatedAt": "2026-10-21T17:45:56.623Z",
   "events": [
     {
       "currency": "NZD",
@@ -3726,7 +3726,7 @@
       "time": "2026-10-22T14:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "83B",
+      "forecast": "80B",
       "previous": "67B",
       "actual": "",
       "sources": [
