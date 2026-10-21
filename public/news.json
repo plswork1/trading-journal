@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T06:45:54.217Z",
+  "generatedAt": "2026-10-21T12:33:26.732Z",
   "events": [
     {
       "currency": "NZD",
@@ -3590,18 +3590,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-10-21T09:10:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-5.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-10-21T10:00:00.000Z",
       "name": "German Buba Monthly Report",
@@ -3656,6 +3644,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-10-22T09:10:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-5.3%",
       "actual": "",
       "sources": [
         "forexfactory"
