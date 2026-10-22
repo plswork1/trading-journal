@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:35:10.379Z",
+  "generatedAt": "2026-10-22T10:49:24.395Z",
   "events": [
     {
       "currency": "NZD",
@@ -3651,7 +3651,7 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-10-22T09:10:00.000Z",
+      "time": "2026-10-22T07:41:00.000Z",
       "name": "Foreign Direct Investment ytd/y",
       "impact": "Low",
       "forecast": "",
