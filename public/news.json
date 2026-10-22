@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:49:24.395Z",
+  "generatedAt": "2026-10-22T15:43:04.255Z",
   "events": [
     {
       "currency": "NZD",
@@ -3674,8 +3674,20 @@
       ]
     },
     {
-      "currency": "CAD",
+      "currency": "USD",
       "time": "2026-10-22T12:30:00.000Z",
+      "name": "Unemployment Claims",
+      "impact": "Medium",
+      "forecast": "200K",
+      "previous": "199K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CAD",
+      "time": "2026-10-22T12:38:00.000Z",
       "name": "IPPI m/m",
       "impact": "Low",
       "forecast": "0.9%",
@@ -3686,12 +3698,12 @@
       ]
     },
     {
-      "currency": "USD",
-      "time": "2026-10-22T12:30:00.000Z",
-      "name": "Unemployment Claims",
-      "impact": "Medium",
-      "forecast": "200K",
-      "previous": "199K",
+      "currency": "CAD",
+      "time": "2026-10-22T13:55:00.000Z",
+      "name": "NHPI m/m",
+      "impact": "Low",
+      "forecast": "-0.1%",
+      "previous": "-0.1%",
       "actual": "",
       "sources": [
         "forexfactory"
