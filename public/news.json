@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T17:52:13.454Z",
+  "generatedAt": "2026-10-26T22:04:03.268Z",
   "events": [
     {
       "currency": "NZD",
@@ -3210,7 +3210,7 @@
       "time": "2026-10-27T08:00:00.000Z",
       "name": "Spanish Unemployment Rate",
       "impact": "Low",
-      "forecast": "9.8%",
+      "forecast": "9.9%",
       "previous": "9.9%",
       "actual": "",
       "sources": [
@@ -3222,7 +3222,7 @@
       "time": "2026-10-27T09:00:00.000Z",
       "name": "M3 Money Supply y/y",
       "impact": "Low",
-      "forecast": "3.6%",
+      "forecast": "3.5%",
       "previous": "3.5%",
       "actual": "",
       "sources": [
@@ -3258,7 +3258,7 @@
       "time": "2026-10-27T13:00:00.000Z",
       "name": "HPI m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.2%",
       "previous": "0.3%",
       "actual": "",
       "sources": [
@@ -3270,7 +3270,7 @@
       "time": "2026-10-27T13:00:00.000Z",
       "name": "S&P/CS Composite-20 HPI y/y",
       "impact": "Low",
-      "forecast": "2.7%",
+      "forecast": "2.6%",
       "previous": "2.5%",
       "actual": "",
       "sources": [
@@ -3282,7 +3282,7 @@
       "time": "2026-10-27T14:00:00.000Z",
       "name": "CB Consumer Confidence",
       "impact": "Medium",
-      "forecast": "80.7",
+      "forecast": "81.2",
       "previous": "81.9",
       "actual": "",
       "sources": [
@@ -3294,7 +3294,7 @@
       "time": "2026-10-27T14:00:00.000Z",
       "name": "New Home Sales",
       "impact": "Low",
-      "forecast": "649K",
+      "forecast": "651K",
       "previous": "684K",
       "actual": "",
       "sources": [
@@ -3306,7 +3306,7 @@
       "time": "2026-10-27T14:00:00.000Z",
       "name": "Richmond Manufacturing Index",
       "impact": "Low",
-      "forecast": "1",
+      "forecast": "0",
       "previous": "-2",
       "actual": "",
       "sources": [
@@ -3402,7 +3402,7 @@
       "time": "2026-10-28T07:00:00.000Z",
       "name": "German GfK Consumer Climate",
       "impact": "Low",
-      "forecast": "-30.0",
+      "forecast": "-30.1",
       "previous": "-30.6",
       "actual": "",
       "sources": [
@@ -3462,7 +3462,7 @@
       "time": "2026-10-28T12:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-130.8B",
+      "forecast": "-130.4B",
       "previous": "-132.6B",
       "actual": "",
       "sources": [
@@ -3474,7 +3474,7 @@
       "time": "2026-10-28T12:30:00.000Z",
       "name": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.5%",
       "previous": "0.7%",
       "actual": "",
       "sources": [
@@ -3594,7 +3594,7 @@
       "time": "2026-10-29T00:30:00.000Z",
       "name": "Import Prices q/q",
       "impact": "Low",
-      "forecast": "1.8%",
+      "forecast": "1.3%",
       "previous": "5.7%",
       "actual": "",
       "sources": [
@@ -3667,7 +3667,7 @@
       "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "4.58|1.6",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3822,7 +3822,7 @@
       "time": "2026-10-29T23:50:00.000Z",
       "name": "Prelim Industrial Production m/m",
       "impact": "Low",
-      "forecast": "1.3%",
+      "forecast": "1.2%",
       "previous": "-1.7%",
       "actual": "",
       "sources": [
@@ -3834,7 +3834,7 @@
       "time": "2026-10-29T23:50:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
-      "forecast": "3.4%",
+      "forecast": "3.3%",
       "previous": "2.7%",
       "actual": "",
       "sources": [
@@ -3906,7 +3906,7 @@
       "time": "2026-10-30T05:00:00.000Z",
       "name": "Housing Starts y/y",
       "impact": "Low",
-      "forecast": "2.5%",
+      "forecast": "2.7%",
       "previous": "6.1%",
       "actual": "",
       "sources": [
@@ -3927,22 +3927,10 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-10-30T06:29:00.000Z",
-      "name": "German Prelim CPI m/m",
-      "impact": "Medium",
-      "forecast": "0.1%",
-      "previous": "0.6%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "EUR",
       "time": "2026-10-30T06:30:00.000Z",
       "name": "French Consumer Spending m/m",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "-0.5%",
       "actual": "",
       "sources": [
@@ -3978,8 +3966,20 @@
       "time": "2026-10-30T07:00:00.000Z",
       "name": "Nationwide HPI m/m",
       "impact": "Low",
-      "forecast": "-0.2%",
+      "forecast": "-0.1%",
       "previous": "-0.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-10-30T07:29:00.000Z",
+      "name": "German Prelim CPI m/m",
+      "impact": "Medium",
+      "forecast": "0.1%",
+      "previous": "0.6%",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4014,7 +4014,7 @@
       "time": "2026-10-30T08:00:00.000Z",
       "name": "KOF Economic Barometer",
       "impact": "Low",
-      "forecast": "108.0",
+      "forecast": "108.1",
       "previous": "109.1",
       "actual": "",
       "sources": [
@@ -4074,7 +4074,7 @@
       "time": "2026-10-30T10:00:00.000Z",
       "name": "Italian Prelim CPI m/m",
       "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.1%",
       "previous": "0.7%",
       "actual": "",
       "sources": [
@@ -4134,7 +4134,7 @@
       "time": "2026-10-30T13:45:00.000Z",
       "name": "Chicago PMI",
       "impact": "Low",
-      "forecast": "54.8",
+      "forecast": "55.8",
       "previous": "58.8",
       "actual": "",
       "sources": [
@@ -4170,7 +4170,7 @@
       "time": "2026-10-31T01:30:00.000Z",
       "name": "Manufacturing PMI",
       "impact": "Low",
-      "forecast": "50.1",
+      "forecast": "49.9",
       "previous": "50.1",
       "actual": "",
       "sources": [
