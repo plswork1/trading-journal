@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T03:27:40.739Z",
+  "generatedAt": "2026-10-30T10:32:57.888Z",
   "events": [
     {
       "currency": "NZD",
@@ -3867,7 +3867,19 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-10-30T02:30:00.000Z",
+      "time": "2026-10-30T03:02:00.000Z",
+      "name": "BOJ Outlook Report",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "JPY",
+      "time": "2026-10-30T03:02:00.000Z",
       "name": "BOJ Policy Rate",
       "impact": "High",
       "forecast": "<1.25%",
@@ -3879,20 +3891,8 @@
     },
     {
       "currency": "JPY",
-      "time": "2026-10-30T02:30:00.000Z",
+      "time": "2026-10-30T03:02:00.000Z",
       "name": "Monetary Policy Statement",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-10-30T02:31:00.000Z",
-      "name": "BOJ Outlook Report",
       "impact": "High",
       "forecast": "",
       "previous": "",
@@ -3908,18 +3908,6 @@
       "impact": "Low",
       "forecast": "2.7%",
       "previous": "6.1%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "JPY",
-      "time": "2026-10-30T05:30:00.000Z",
-      "name": "BOJ Press Conference",
-      "impact": "High",
-      "forecast": "",
-      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3944,6 +3932,18 @@
       "impact": "Low",
       "forecast": "0.1%",
       "previous": "0.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "JPY",
+      "time": "2026-10-30T06:30:00.000Z",
+      "name": "BOJ Press Conference",
+      "impact": "High",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
