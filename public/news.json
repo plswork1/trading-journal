@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:51:39.236Z",
+  "generatedAt": "2026-10-30T21:13:31.103Z",
   "events": [
     {
       "currency": "NZD",
@@ -4157,6 +4157,18 @@
       "currency": "USD",
       "time": "2026-10-30T16:30:00.000Z",
       "name": "FOMC Member Musalem Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-10-30T17:30:00.000Z",
+      "name": "FOMC Member Logan Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
