@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T11:48:27.492Z",
+  "generatedAt": "2026-11-02T21:01:41.364Z",
   "events": [
     {
       "currency": "NZD",
@@ -3351,7 +3351,7 @@
     },
     {
       "currency": "USD",
-      "time": "2026-11-02T19:03:00.000Z",
+      "time": "2026-11-02T19:00:00.000Z",
       "name": "Loan Officer Survey",
       "impact": "Low",
       "forecast": "",
