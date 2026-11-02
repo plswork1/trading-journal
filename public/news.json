@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T03:19:39.197Z",
+  "generatedAt": "2026-11-02T11:48:27.492Z",
   "events": [
     {
       "currency": "NZD",
@@ -3219,7 +3219,7 @@
     },
     {
       "currency": "CHF",
-      "time": "2026-11-02T07:30:00.000Z",
+      "time": "2026-11-02T07:33:00.000Z",
       "name": "Retail Sales y/y",
       "impact": "Low",
       "forecast": "3.0%",
