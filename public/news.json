@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:19:19.367Z",
+  "generatedAt": "2026-11-02T03:19:39.197Z",
   "events": [
     {
       "currency": "NZD",
@@ -3182,18 +3182,6 @@
       ]
     },
     {
-      "currency": "AUD",
-      "time": "2026-11-02T00:45:00.000Z",
-      "name": "ANZ Job Advertisements m/m",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "2.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "CNY",
       "time": "2026-11-02T01:45:00.000Z",
       "name": "RatingDog Manufacturing PMI",
@@ -3342,7 +3330,7 @@
       "time": "2026-11-02T15:00:00.000Z",
       "name": "ISM Manufacturing PMI",
       "impact": "Medium",
-      "forecast": "54.7",
+      "forecast": "54.5",
       "previous": "54.5",
       "actual": "",
       "sources": [
@@ -3354,7 +3342,7 @@
       "time": "2026-11-02T15:00:00.000Z",
       "name": "Construction Spending m/m",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "0.4%",
       "previous": "0.9%",
       "actual": "",
       "sources": [
