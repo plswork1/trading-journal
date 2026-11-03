@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:27:51.411Z",
+  "generatedAt": "2026-11-03T18:47:33.813Z",
   "events": [
     {
       "currency": "NZD",
@@ -3446,8 +3446,20 @@
       ]
     },
     {
+      "currency": "USD",
+      "time": "2026-11-03T09:00:00.000Z",
+      "name": "RCM/TIPP Economic Optimism",
+      "impact": "Low",
+      "forecast": "46.2",
+      "previous": "46.8",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "GBP",
-      "time": "2026-11-03T10:33:00.000Z",
+      "time": "2026-11-03T10:02:00.000Z",
       "name": "10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -3483,18 +3495,6 @@
     },
     {
       "currency": "USD",
-      "time": "2026-11-03T15:10:00.000Z",
-      "name": "RCM/TIPP Economic Optimism",
-      "impact": "Low",
-      "forecast": "46.2",
-      "previous": "46.8",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
       "time": "2026-11-03T15:15:00.000Z",
       "name": "Omdia Total Vehicle Sales",
       "impact": "Low",
@@ -3519,7 +3519,7 @@
     },
     {
       "currency": "NZD",
-      "time": "2026-11-03T15:50:00.000Z",
+      "time": "2026-11-03T15:27:00.000Z",
       "name": "GDT Price Index",
       "impact": "Low",
       "forecast": "",
@@ -3543,7 +3543,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-11-03T17:00:00.000Z",
+      "time": "2026-11-03T18:00:00.000Z",
       "name": "German Buba President Nagel Speaks",
       "impact": "Low",
       "forecast": "",
@@ -3774,7 +3774,7 @@
       "time": "2026-11-04T15:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.1M",
       "previous": "-1.9M",
       "actual": "",
       "sources": [
