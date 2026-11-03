@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T21:01:41.364Z",
+  "generatedAt": "2026-11-03T03:08:33.641Z",
   "events": [
     {
       "currency": "NZD",
@@ -3462,7 +3462,7 @@
       "time": "2026-11-03T15:00:00.000Z",
       "name": "JOLTS Job Openings",
       "impact": "Medium",
-      "forecast": "7.11M",
+      "forecast": "7.15M",
       "previous": "7.08M",
       "actual": "",
       "sources": [
@@ -3498,7 +3498,7 @@
       "time": "2026-11-03T15:15:00.000Z",
       "name": "Omdia Total Vehicle Sales",
       "impact": "Low",
-      "forecast": "15.9M",
+      "forecast": "15.8M",
       "previous": "16.0M",
       "actual": "",
       "sources": [
@@ -3630,7 +3630,7 @@
       "time": "2026-11-04T01:45:00.000Z",
       "name": "RatingDog Services PMI",
       "impact": "Low",
-      "forecast": "51.5",
+      "forecast": "51.7",
       "previous": "51.6",
       "actual": "",
       "sources": [
@@ -3642,7 +3642,7 @@
       "time": "2026-11-04T08:00:00.000Z",
       "name": "Spanish Unemployment Change",
       "impact": "Low",
-      "forecast": "25.3K",
+      "forecast": "18.7K",
       "previous": "23.6K",
       "actual": "",
       "sources": [
@@ -3654,7 +3654,7 @@
       "time": "2026-11-04T08:15:00.000Z",
       "name": "Spanish Services PMI",
       "impact": "Low",
-      "forecast": "57.5",
+      "forecast": "57.6",
       "previous": "58.3",
       "actual": "",
       "sources": [
@@ -3666,7 +3666,7 @@
       "time": "2026-11-04T08:45:00.000Z",
       "name": "Italian Services PMI",
       "impact": "Low",
-      "forecast": "51.0",
+      "forecast": "51.4",
       "previous": "51.7",
       "actual": "",
       "sources": [
@@ -3714,7 +3714,7 @@
       "time": "2026-11-04T13:15:00.000Z",
       "name": "ADP Non-Farm Employment Change",
       "impact": "Low",
-      "forecast": "68K",
+      "forecast": "67K",
       "previous": "90K",
       "actual": "",
       "sources": [
@@ -3726,7 +3726,7 @@
       "time": "2026-11-04T13:30:00.000Z",
       "name": "Trade Balance",
       "impact": "Low",
-      "forecast": "3.8B",
+      "forecast": "4.8B",
       "previous": "4.2B",
       "actual": "",
       "sources": [
@@ -3762,7 +3762,7 @@
       "time": "2026-11-04T15:00:00.000Z",
       "name": "ISM Services PMI",
       "impact": "Medium",
-      "forecast": "54.9",
+      "forecast": "54.8",
       "previous": "54.9",
       "actual": "",
       "sources": [
@@ -3798,7 +3798,7 @@
       "time": "2026-11-05T00:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "0.96B",
+      "forecast": "0.94B",
       "previous": "0.50B",
       "actual": "",
       "sources": [
@@ -3834,7 +3834,7 @@
       "time": "2026-11-05T07:00:00.000Z",
       "name": "German Factory Orders m/m",
       "impact": "Low",
-      "forecast": "4.9%",
+      "forecast": "4.6%",
       "previous": "-10.6%",
       "actual": "",
       "sources": [
@@ -3846,7 +3846,7 @@
       "time": "2026-11-05T07:45:00.000Z",
       "name": "French Industrial Production m/m",
       "impact": "Low",
-      "forecast": "0.4%",
+      "forecast": "0.3%",
       "previous": "-0.3%",
       "actual": "",
       "sources": [
@@ -3870,7 +3870,7 @@
       "time": "2026-11-05T09:00:00.000Z",
       "name": "Italian Retail Sales m/m",
       "impact": "Low",
-      "forecast": "0.1%",
+      "forecast": "0.0%",
       "previous": "0.3%",
       "actual": "",
       "sources": [
@@ -3882,7 +3882,7 @@
       "time": "2026-11-05T09:30:00.000Z",
       "name": "Construction PMI",
       "impact": "Low",
-      "forecast": "46.5",
+      "forecast": "46.4",
       "previous": "46.1",
       "actual": "",
       "sources": [
@@ -3894,7 +3894,7 @@
       "time": "2026-11-05T10:00:00.000Z",
       "name": "PPI m/m",
       "impact": "Low",
-      "forecast": "2.6%",
+      "forecast": "2.5%",
       "previous": "1.9%",
       "actual": "",
       "sources": [
@@ -4110,7 +4110,7 @@
       "time": "2026-11-06T07:00:00.000Z",
       "name": "German Industrial Production m/m",
       "impact": "Low",
-      "forecast": "-0.2%",
+      "forecast": "0.0%",
       "previous": "2.0%",
       "actual": "",
       "sources": [
@@ -4218,7 +4218,7 @@
       "time": "2026-11-06T13:30:00.000Z",
       "name": "Employment Change",
       "impact": "High",
-      "forecast": "14.5K",
+      "forecast": "14.6K",
       "previous": "-68.3K",
       "actual": "",
       "sources": [
@@ -4254,7 +4254,7 @@
       "time": "2026-11-06T13:30:00.000Z",
       "name": "Non-Farm Employment Change",
       "impact": "High",
-      "forecast": "63K",
+      "forecast": "65K",
       "previous": "29K",
       "actual": "",
       "sources": [
@@ -4302,7 +4302,7 @@
       "time": "2026-11-06T15:00:00.000Z",
       "name": "Prelim UoM Consumer Sentiment",
       "impact": "Medium",
-      "forecast": "47.8",
+      "forecast": "48.1",
       "previous": "46.3",
       "actual": "",
       "sources": [
@@ -4338,7 +4338,7 @@
       "time": "2026-11-06T20:00:00.000Z",
       "name": "Consumer Credit m/m",
       "impact": "Low",
-      "forecast": "12.0B",
+      "forecast": "13.4B",
       "previous": "8.3B",
       "actual": "",
       "sources": [
