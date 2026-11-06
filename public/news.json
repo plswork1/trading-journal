@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T08:44:03.399Z",
+  "generatedAt": "2026-11-06T16:28:23.498Z",
   "events": [
     {
       "currency": "NZD",
@@ -4325,6 +4325,18 @@
       "currency": "USD",
       "time": "2026-11-06T17:15:00.000Z",
       "name": "FOMC Member Bowman Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-11-06T18:00:00.000Z",
+      "name": "FOMC Member Daly Speaks",
       "impact": "Low",
       "forecast": "",
       "previous": "",
