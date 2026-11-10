@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:07:28.499Z",
+  "generatedAt": "2026-11-10T08:56:46.098Z",
   "events": [
     {
       "currency": "NZD",
@@ -3351,11 +3351,11 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-11-10T03:03:00.000Z",
-      "name": "Trade Balance",
+      "time": "2026-11-10T02:32:00.000Z",
+      "name": "USD-Denominated Trade Balance",
       "impact": "Low",
-      "forecast": "855B",
-      "previous": "906B",
+      "forecast": "126.5B",
+      "previous": "133.5B",
       "actual": "",
       "sources": [
         "forexfactory"
