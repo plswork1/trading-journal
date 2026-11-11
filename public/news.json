@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T02:21:52.742Z",
+  "generatedAt": "2026-11-11T09:59:41.054Z",
   "events": [
     {
       "currency": "NZD",
@@ -3650,30 +3650,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-11-11T09:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.2%",
-      "previous": "7.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-11-11T09:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "80B",
-      "previous": "1080B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-11-11T09:45:00.000Z",
       "name": "ECB President Lagarde Speaks",
@@ -3830,6 +3806,30 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-11-12T09:03:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "7.2%",
+      "previous": "7.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-11-12T09:03:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "80B",
+      "previous": "1080B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "CAD",
       "time": "2026-11-12T13:30:00.000Z",
       "name": "Building Permits m/m",
@@ -3930,7 +3930,7 @@
       "time": "2026-11-12T17:00:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-0.6M",
       "previous": "-0.9M",
       "actual": "",
       "sources": [
@@ -3990,7 +3990,7 @@
       "time": "2026-11-12T19:00:00.000Z",
       "name": "Federal Budget Balance",
       "impact": "Low",
-      "forecast": "-286.3B",
+      "forecast": "-298.6B",
       "previous": "-26.9B",
       "actual": "",
       "sources": [
@@ -4155,10 +4155,22 @@
     },
     {
       "currency": "USD",
+      "time": "2026-11-13T14:40:00.000Z",
+      "name": "FOMC Member Logan Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
       "time": "2026-11-13T15:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "65B",
       "previous": "77B",
       "actual": "",
       "sources": [
