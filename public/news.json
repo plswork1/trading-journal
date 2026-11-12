@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:26:34.979Z",
+  "generatedAt": "2026-11-12T21:14:35.622Z",
   "events": [
     {
       "currency": "NZD",
@@ -3866,18 +3866,6 @@
       ]
     },
     {
-      "currency": "USD",
-      "time": "2026-11-12T15:00:00.000Z",
-      "name": "Mortgage Delinquencies",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "AUD",
       "time": "2026-11-12T15:30:00.000Z",
       "name": "CB Leading Index m/m",
@@ -4160,6 +4148,18 @@
       "impact": "Low",
       "forecast": "",
       "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-11-13T15:15:00.000Z",
+      "name": "Mortgage Delinquencies",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "4.37%",
       "actual": "",
       "sources": [
         "forexfactory"
