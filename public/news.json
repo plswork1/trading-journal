@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:17:41.551Z",
+  "generatedAt": "2026-11-13T18:16:51.156Z",
   "events": [
     {
       "currency": "NZD",
@@ -4034,6 +4034,30 @@
       ]
     },
     {
+      "currency": "CNY",
+      "time": "2026-11-13T09:00:00.000Z",
+      "name": "M2 Money Supply y/y",
+      "impact": "Low",
+      "forecast": "7.2%",
+      "previous": "7.2%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-11-13T09:00:00.000Z",
+      "name": "New Loans",
+      "impact": "Low",
+      "forecast": "80B",
+      "previous": "1080B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "EUR",
       "time": "2026-11-13T09:00:00.000Z",
       "name": "Italian Trade Balance",
@@ -4064,30 +4088,6 @@
       "impact": "Low",
       "forecast": "-4.5B",
       "previous": "-6.8B",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-11-13T10:03:00.000Z",
-      "name": "M2 Money Supply y/y",
-      "impact": "Low",
-      "forecast": "7.2%",
-      "previous": "7.2%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "CNY",
-      "time": "2026-11-13T10:03:00.000Z",
-      "name": "New Loans",
-      "impact": "Low",
-      "forecast": "80B",
-      "previous": "1080B",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4148,18 +4148,6 @@
       "impact": "Low",
       "forecast": "",
       "previous": "",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "USD",
-      "time": "2026-11-13T15:15:00.000Z",
-      "name": "Mortgage Delinquencies",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%",
       "actual": "",
       "sources": [
         "forexfactory"
