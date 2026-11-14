@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:16:51.156Z",
+  "generatedAt": "2026-11-14T00:01:46.028Z",
   "events": [
     {
       "currency": "NZD",
@@ -4193,6 +4193,18 @@
       "currency": "USD",
       "time": "2026-11-13T17:00:00.000Z",
       "name": "FOMC Member Daly Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-11-13T21:00:00.000Z",
+      "name": "FOMC Financial Stability Report",
       "impact": "Low",
       "forecast": "",
       "previous": "",
