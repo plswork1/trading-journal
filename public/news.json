@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:14:21.359Z",
+  "generatedAt": "2026-11-16T03:45:26.469Z",
   "events": [
     {
       "currency": "NZD",
@@ -3326,6 +3326,18 @@
       ]
     },
     {
+      "currency": "USD",
+      "time": "2026-11-16T19:15:00.000Z",
+      "name": "FOMC Member Hammack Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "NZD",
       "time": "2026-11-16T20:00:00.000Z",
       "name": "RBNZ Financial Stability Report",
@@ -3725,7 +3737,7 @@
       "currency": "GBP",
       "time": "2026-11-18T07:30:00.000Z",
       "name": "BOE Gov Bailey Speaks",
-      "impact": "High",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
@@ -4289,7 +4301,7 @@
       "currency": "USD",
       "time": "2026-11-20T13:25:00.000Z",
       "name": "FOMC Member Waller Speaks",
-      "impact": "Medium",
+      "impact": "Low",
       "forecast": "",
       "previous": "",
       "actual": "",
