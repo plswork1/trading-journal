@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:57:48.843Z",
+  "generatedAt": "2026-11-17T22:00:16.001Z",
   "events": [
     {
       "currency": "NZD",
@@ -3602,6 +3602,18 @@
       ]
     },
     {
+      "currency": "NZD",
+      "time": "2026-11-17T14:29:00.000Z",
+      "name": "GDT Price Index",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "3.0%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
       "currency": "USD",
       "time": "2026-11-17T14:30:00.000Z",
       "name": "FOMC Member Hammack Speaks",
@@ -3632,18 +3644,6 @@
       "impact": "Low",
       "forecast": "29",
       "previous": "29",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
-      "currency": "NZD",
-      "time": "2026-11-17T15:50:00.000Z",
-      "name": "GDT Price Index",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "3.0%",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3882,7 +3882,7 @@
       "time": "2026-11-18T15:00:00.000Z",
       "name": "Pending Home Sales m/m",
       "impact": "Low",
-      "forecast": "-2.1%",
+      "forecast": "-2.0%",
       "previous": "-7.3%",
       "actual": "",
       "sources": [
@@ -3894,7 +3894,7 @@
       "time": "2026-11-18T15:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "-0.5M",
+      "forecast": "0.4M",
       "previous": "4.7M",
       "actual": "",
       "sources": [
@@ -4098,7 +4098,7 @@
       "time": "2026-11-19T13:30:00.000Z",
       "name": "IPPI m/m",
       "impact": "Low",
-      "forecast": "1.2%",
+      "forecast": "0.4%",
       "previous": "2.0%",
       "actual": "",
       "sources": [
@@ -4122,7 +4122,7 @@
       "time": "2026-11-19T13:30:00.000Z",
       "name": "Philly Fed Manufacturing Index",
       "impact": "Medium",
-      "forecast": "19.2",
+      "forecast": "20.6",
       "previous": "20.9",
       "actual": "",
       "sources": [
@@ -4134,7 +4134,7 @@
       "time": "2026-11-19T13:30:00.000Z",
       "name": "Unemployment Claims",
       "impact": "Medium",
-      "forecast": "199K",
+      "forecast": "198K",
       "previous": "200K",
       "actual": "",
       "sources": [
@@ -4194,7 +4194,7 @@
       "time": "2026-11-19T15:30:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "25B",
       "previous": "61B",
       "actual": "",
       "sources": [
@@ -4398,7 +4398,7 @@
       "time": "2026-11-20T15:00:00.000Z",
       "name": "Revised UoM Consumer Sentiment",
       "impact": "Medium",
-      "forecast": "52.1",
+      "forecast": "51.7",
       "previous": "51.0",
       "actual": "",
       "sources": [
