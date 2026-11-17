@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T22:38:01.126Z",
+  "generatedAt": "2026-11-17T04:51:32.827Z",
   "events": [
     {
       "currency": "NZD",
@@ -3390,6 +3390,18 @@
       "time": "2026-11-16T23:30:00.000Z",
       "name": "FOMC Member Goolsbee Speaks",
       "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "NZD",
+      "time": "2026-11-17T00:00:00.000Z",
+      "name": "RBNZ Gov Breman Speaks",
+      "impact": "Medium",
       "forecast": "",
       "previous": "",
       "actual": "",
