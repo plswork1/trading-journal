@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:27:40.199Z",
+  "generatedAt": "2026-11-18T20:58:43.521Z",
   "events": [
     {
       "currency": "NZD",
@@ -4034,18 +4034,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-11-19T07:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-11-19T09:00:00.000Z",
       "name": "Current Account",
@@ -4328,6 +4316,18 @@
       "impact": "Low",
       "forecast": "18.0B",
       "previous": "24.5B",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-11-20T07:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.3%",
       "actual": "",
       "sources": [
         "forexfactory"
