@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:00:16.001Z",
+  "generatedAt": "2026-11-18T03:24:06.179Z",
   "events": [
     {
       "currency": "NZD",
@@ -3687,7 +3687,7 @@
     },
     {
       "currency": "AUD",
-      "time": "2026-11-17T23:30:00.000Z",
+      "time": "2026-11-17T23:39:00.000Z",
       "name": "MI Leading Index m/m",
       "impact": "Low",
       "forecast": "",
