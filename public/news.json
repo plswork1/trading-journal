@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T03:24:06.179Z",
+  "generatedAt": "2026-11-18T12:27:40.199Z",
   "events": [
     {
       "currency": "NZD",
@@ -3758,18 +3758,6 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-11-18T07:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "GBP",
       "time": "2026-11-18T07:30:00.000Z",
       "name": "BOE Gov Bailey Speaks",
@@ -4040,6 +4028,18 @@
       "impact": "High",
       "forecast": "4.7%",
       "previous": "4.7%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "CNY",
+      "time": "2026-11-19T07:02:00.000Z",
+      "name": "Foreign Direct Investment ytd/y",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "-4.3%",
       "actual": "",
       "sources": [
         "forexfactory"
