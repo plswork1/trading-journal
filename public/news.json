@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:53:51.526Z",
+  "generatedAt": "2026-11-19T19:14:51.027Z",
   "events": [
     {
       "currency": "NZD",
@@ -4167,11 +4167,11 @@
     },
     {
       "currency": "USD",
-      "time": "2026-11-19T15:15:00.000Z",
-      "name": "Mortgage Delinquencies",
+      "time": "2026-11-19T15:30:00.000Z",
+      "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
-      "previous": "4.37%",
+      "forecast": "25B",
+      "previous": "61B",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -4179,11 +4179,11 @@
     },
     {
       "currency": "USD",
-      "time": "2026-11-19T15:30:00.000Z",
-      "name": "Natural Gas Storage",
+      "time": "2026-11-19T15:46:00.000Z",
+      "name": "Mortgage Delinquencies",
       "impact": "Low",
-      "forecast": "25B",
-      "previous": "61B",
+      "forecast": "",
+      "previous": "4.37%",
       "actual": "",
       "sources": [
         "forexfactory"
