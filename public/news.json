@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:23:27.348Z",
+  "generatedAt": "2026-11-20T18:07:43.342Z",
   "events": [
     {
       "currency": "NZD",
@@ -3472,6 +3472,18 @@
     {
       "currency": "GBP",
       "time": "2026-11-17T07:00:00.000Z",
+      "name": "HMRC Payrolls Change",
+      "impact": "Low",
+      "forecast": "9K",
+      "previous": "13K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-11-17T07:00:00.000Z",
       "name": "Unemployment Rate",
       "impact": "Low",
       "forecast": "4.7%",
@@ -4388,6 +4400,18 @@
       "impact": "Medium",
       "forecast": "51.7",
       "previous": "51.0",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
+      "time": "2026-11-20T17:00:00.000Z",
+      "name": "President Trump Speaks",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
