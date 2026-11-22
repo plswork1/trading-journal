@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:28:46.854Z",
+  "generatedAt": "2026-11-22T22:56:43.128Z",
   "events": [
     {
       "currency": "NZD",
@@ -3223,7 +3223,7 @@
       "name": "Corporate Profits q/q",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "8.7%",
       "actual": "",
       "sources": [
         "forexfactory"
