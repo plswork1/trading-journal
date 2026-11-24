@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T13:50:26.729Z",
+  "generatedAt": "2026-11-24T01:21:18.614Z",
   "events": [
     {
       "currency": "NZD",
@@ -3266,23 +3266,11 @@
       ]
     },
     {
-      "currency": "CNY",
-      "time": "2026-11-24T07:02:00.000Z",
-      "name": "Foreign Direct Investment ytd/y",
-      "impact": "Low",
-      "forecast": "",
-      "previous": "-4.3%",
-      "actual": "",
-      "sources": [
-        "forexfactory"
-      ]
-    },
-    {
       "currency": "EUR",
       "time": "2026-11-24T09:00:00.000Z",
       "name": "German ifo Business Climate",
       "impact": "Low",
-      "forecast": "90.6",
+      "forecast": "90.5",
       "previous": "90.2",
       "actual": "",
       "sources": [
@@ -3294,7 +3282,7 @@
       "time": "2026-11-24T11:00:00.000Z",
       "name": "CBI Realized Sales",
       "impact": "Low",
-      "forecast": "-24",
+      "forecast": "-27",
       "previous": "-10",
       "actual": "",
       "sources": [
@@ -3342,7 +3330,7 @@
       "time": "2026-11-24T14:00:00.000Z",
       "name": "Belgian NBB Business Climate",
       "impact": "Low",
-      "forecast": "-9.3",
+      "forecast": "-9.4",
       "previous": "-9.8",
       "actual": "",
       "sources": [
@@ -3378,7 +3366,7 @@
       "time": "2026-11-24T15:00:00.000Z",
       "name": "CB Consumer Confidence",
       "impact": "Medium",
-      "forecast": "92.1",
+      "forecast": "92.4",
       "previous": "91.7",
       "actual": "",
       "sources": [
@@ -3390,7 +3378,7 @@
       "time": "2026-11-24T15:00:00.000Z",
       "name": "Richmond Manufacturing Index",
       "impact": "Low",
-      "forecast": "-3",
+      "forecast": "-2",
       "previous": "-2",
       "actual": "",
       "sources": [
@@ -3450,7 +3438,7 @@
       "time": "2026-11-25T00:30:00.000Z",
       "name": "CPI y/y",
       "impact": "High",
-      "forecast": "4.8%",
+      "forecast": "4.7%",
       "previous": "4.3%",
       "actual": "",
       "sources": [
@@ -3544,10 +3532,10 @@
     {
       "currency": "USD",
       "time": "2026-11-25T13:30:00.000Z",
-      "name": "Unemployment Claims",
-      "impact": "Medium",
-      "forecast": "201K",
-      "previous": "203K",
+      "name": "Durable Goods Orders m/m",
+      "impact": "Low",
+      "forecast": "0.7%",
+      "previous": "1.8%",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3556,10 +3544,10 @@
     {
       "currency": "USD",
       "time": "2026-11-25T13:30:00.000Z",
-      "name": "Durable Goods Orders m/m",
+      "name": "Unemployment Claims",
       "impact": "Low",
-      "forecast": "0.5%",
-      "previous": "1.8%",
+      "forecast": "201K",
+      "previous": "203K",
       "actual": "",
       "sources": [
         "forexfactory"
@@ -3570,7 +3558,7 @@
       "time": "2026-11-25T15:00:00.000Z",
       "name": "New Home Sales",
       "impact": "Low",
-      "forecast": "649K",
+      "forecast": "650K",
       "previous": "676K",
       "actual": "",
       "sources": [
@@ -3594,7 +3582,7 @@
       "time": "2026-11-25T17:00:00.000Z",
       "name": "Natural Gas Storage",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "-19B",
       "previous": "20B",
       "actual": "",
       "sources": [
@@ -3618,7 +3606,7 @@
       "time": "2026-11-26T00:30:00.000Z",
       "name": "Private Capital Expenditure q/q",
       "impact": "Low",
-      "forecast": "4.4%",
+      "forecast": "4.5%",
       "previous": "-3.6%",
       "actual": "",
       "sources": [
@@ -3714,7 +3702,7 @@
       "time": "2026-11-26T23:30:00.000Z",
       "name": "Tokyo Core CPI y/y",
       "impact": "Medium",
-      "forecast": "2.9%",
+      "forecast": "3.0%",
       "previous": "2.6%",
       "actual": "",
       "sources": [
@@ -3726,7 +3714,7 @@
       "time": "2026-11-27T07:45:00.000Z",
       "name": "French Consumer Spending m/m",
       "impact": "Low",
-      "forecast": "0.2%",
+      "forecast": "0.1%",
       "previous": "-0.5%",
       "actual": "",
       "sources": [
@@ -3750,7 +3738,7 @@
       "time": "2026-11-27T08:00:00.000Z",
       "name": "Spanish Flash CPI y/y",
       "impact": "Low",
-      "forecast": "4.8%",
+      "forecast": "4.7%",
       "previous": "4.9%",
       "actual": "",
       "sources": [
@@ -3798,7 +3786,7 @@
       "time": "2026-11-27T13:30:00.000Z",
       "name": "Current Account",
       "impact": "Low",
-      "forecast": "9.6B",
+      "forecast": "9.5B",
       "previous": "8.8B",
       "actual": "",
       "sources": [
@@ -3810,7 +3798,7 @@
       "time": "2026-11-27T13:30:00.000Z",
       "name": "Goods Trade Balance",
       "impact": "Low",
-      "forecast": "-134.4B",
+      "forecast": "-135.9B",
       "previous": "-134.9B",
       "actual": "",
       "sources": [
@@ -3822,7 +3810,7 @@
       "time": "2026-11-27T13:30:00.000Z",
       "name": "Prelim Wholesale Inventories m/m",
       "impact": "Low",
-      "forecast": "0.7%",
+      "forecast": "0.5%",
       "previous": "0.6%",
       "actual": "",
       "sources": [
