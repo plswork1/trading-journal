@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:47:10.294Z",
+  "generatedAt": "2026-11-24T21:42:18.559Z",
   "events": [
     {
       "currency": "NZD",
@@ -3315,7 +3315,7 @@
     },
     {
       "currency": "CNY",
-      "time": "2026-11-24T14:00:00.000Z",
+      "time": "2026-11-24T13:51:00.000Z",
       "name": "CB Leading Index m/m",
       "impact": "Low",
       "forecast": "",
