@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:41:10.825Z",
+  "generatedAt": "2026-11-25T15:08:08.948Z",
   "events": [
     {
       "currency": "NZD",
@@ -3495,7 +3495,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-11-25T10:42:00.000Z",
+      "time": "2026-11-25T10:32:00.000Z",
       "name": "German 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
@@ -3560,6 +3560,18 @@
       "impact": "Low",
       "forecast": "201K",
       "previous": "203K",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "GBP",
+      "time": "2026-11-25T14:15:00.000Z",
+      "name": "Monetary Policy Report Hearings",
+      "impact": "Medium",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
