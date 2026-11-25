@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:42:18.559Z",
+  "generatedAt": "2026-11-25T04:41:10.825Z",
   "events": [
     {
       "currency": "NZD",
@@ -3507,6 +3507,18 @@
     },
     {
       "currency": "USD",
+      "time": "2026-11-25T12:25:00.000Z",
+      "name": "FOMC Member Bowman Speaks",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "USD",
       "time": "2026-11-25T13:30:00.000Z",
       "name": "Core PCE Price Index m/m",
       "impact": "High",
@@ -3570,7 +3582,7 @@
       "time": "2026-11-25T15:30:00.000Z",
       "name": "Crude Oil Inventories",
       "impact": "Low",
-      "forecast": "",
+      "forecast": "2.0M",
       "previous": "3.4M",
       "actual": "",
       "sources": [
@@ -3763,7 +3775,7 @@
       "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
-      "previous": "",
+      "previous": "4.49|1.6",
       "actual": "",
       "sources": [
         "forexfactory"
