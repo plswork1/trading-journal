@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T23:52:41.979Z",
+  "generatedAt": "2026-11-26T05:54:35.672Z",
   "events": [
     {
       "currency": "NZD",
@@ -3668,6 +3668,18 @@
       "impact": "Low",
       "forecast": "3.5%",
       "previous": "3.5%",
+      "actual": "",
+      "sources": [
+        "forexfactory"
+      ]
+    },
+    {
+      "currency": "EUR",
+      "time": "2026-11-26T09:15:00.000Z",
+      "name": "Euro Summit",
+      "impact": "Low",
+      "forecast": "",
+      "previous": "",
       "actual": "",
       "sources": [
         "forexfactory"
