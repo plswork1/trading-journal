@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:15:17.713Z",
+  "generatedAt": "2026-11-27T19:15:19.979Z",
   "events": [
     {
       "currency": "NZD",
@@ -3795,7 +3795,7 @@
     },
     {
       "currency": "EUR",
-      "time": "2026-11-27T10:33:00.000Z",
+      "time": "2026-11-27T10:05:00.000Z",
       "name": "Italian 10-y Bond Auction",
       "impact": "Low",
       "forecast": "",
